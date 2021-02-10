@@ -31451,7 +31451,12 @@
       },
       "properties": {
         "name": "Côte d'Ivoire",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 384,
+        "alpha2Code": "CI",
+        "alpha3Code": "CIV",
+        "region": "Africa",
+        "subregion": "Western Africa"
       }
     },
     {
@@ -34451,7 +34456,12 @@
       },
       "properties": {
         "name": "Curaçao",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 531,
+        "alpha2Code": "CW",
+        "alpha3Code": "CUW",
+        "region": "Americas",
+        "subregion": "Caribbean"
       }
     },
     {
@@ -45528,7 +45538,12 @@
       },
       "properties": {
         "name": "Greece",
-        "childNum": 29
+        "childNum": 29,
+        "numericCode": 300,
+        "alpha2Code": "GR",
+        "alpha3Code": "GRC",
+        "region": "Europe",
+        "subregion": "Southern Europe"
       }
     },
     {
@@ -45558,7 +45573,12 @@
       },
       "properties": {
         "name": "Grenada",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 308,
+        "alpha2Code": "GD",
+        "alpha3Code": "GRD",
+        "region": "Americas",
+        "subregion": "Caribbean"
       }
     },
     {
@@ -47518,7 +47538,12 @@
       },
       "properties": {
         "name": "Greenland",
-        "childNum": 14
+        "childNum": 14,
+        "numericCode": 304,
+        "alpha2Code": "GL",
+        "alpha3Code": "GRL",
+        "region": "Americas",
+        "subregion": "Northern America"
       }
     },
     {
@@ -47740,7 +47765,12 @@
       },
       "properties": {
         "name": "Guatemala",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 320,
+        "alpha2Code": "GT",
+        "alpha3Code": "GTM",
+        "region": "Americas",
+        "subregion": "Central America"
       }
     },
     {
@@ -47774,7 +47804,12 @@
       },
       "properties": {
         "name": "Guam",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 316,
+        "alpha2Code": "GU",
+        "alpha3Code": "GUM",
+        "region": "Oceania",
+        "subregion": "Micronesia"
       }
     },
     {
@@ -48168,7 +48203,12 @@
       },
       "properties": {
         "name": "Guyana",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 328,
+        "alpha2Code": "GY",
+        "alpha3Code": "GUY",
+        "region": "Americas",
+        "subregion": "South America"
       }
     },
     {
@@ -48202,7 +48242,12 @@
       },
       "properties": {
         "name": "Heard Island and McDonald Islands",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 334,
+        "alpha2Code": "HM",
+        "alpha3Code": "HMD",
+        "region": "",
+        "subregion": ""
       }
     },
     {
@@ -48524,7 +48569,12 @@
       },
       "properties": {
         "name": "Honduras",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 340,
+        "alpha2Code": "HN",
+        "alpha3Code": "HND",
+        "region": "Americas",
+        "subregion": "Central America"
       }
     },
     {
@@ -48968,7 +49018,12 @@
       },
       "properties": {
         "name": "Croatia",
-        "childNum": 8
+        "childNum": 8,
+        "numericCode": 191,
+        "alpha2Code": "HR",
+        "alpha3Code": "HRV",
+        "region": "Europe",
+        "subregion": "Southern Europe"
       }
     },
     {
@@ -49160,7 +49215,12 @@
       },
       "properties": {
         "name": "Haiti",
-        "childNum": 2
+        "childNum": 2,
+        "numericCode": 332,
+        "alpha2Code": "HT",
+        "alpha3Code": "HTI",
+        "region": "Americas",
+        "subregion": "Caribbean"
       }
     },
     {
@@ -49358,7 +49418,12 @@
       },
       "properties": {
         "name": "Hungary",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 348,
+        "alpha2Code": "HU",
+        "alpha3Code": "HUN",
+        "region": "Europe",
+        "subregion": "Eastern Europe"
       }
     },
     {
@@ -53958,7 +54023,12 @@
       },
       "properties": {
         "name": "Indonesia",
-        "childNum": 107
+        "childNum": 107,
+        "numericCode": 360,
+        "alpha2Code": "ID",
+        "alpha3Code": "IDN",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
       }
     },
     {
@@ -53988,7 +54058,12 @@
       },
       "properties": {
         "name": "Isle of Man",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 833,
+        "alpha2Code": "IM",
+        "alpha3Code": "IMN",
+        "region": "Europe",
+        "subregion": "Northern Europe"
       }
     },
     {
@@ -55971,8 +56046,13 @@
         ]
       },
       "properties": {
-        "name": "India",
-        "childNum": 1
+        "name": "British Indian Ocean Territory",
+        "childNum": 1,
+        "numericCode": 86,
+        "alpha2Code": "IO",
+        "alpha3Code": "IOT",
+        "region": "Africa",
+        "subregion": "Eastern Africa"
       }
     },
     {
@@ -56010,7 +56090,12 @@
       },
       "properties": {
         "name": "British Indian Ocean Territory",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 86,
+        "alpha2Code": "IO",
+        "alpha3Code": "IOT",
+        "region": "Africa",
+        "subregion": "Eastern Africa"
       }
     },
     {
@@ -56286,7 +56371,12 @@
       },
       "properties": {
         "name": "Ireland",
-        "childNum": 2
+        "childNum": 2,
+        "numericCode": 372,
+        "alpha2Code": "IE",
+        "alpha3Code": "IRL",
+        "region": "Europe",
+        "subregion": "Northern Europe"
       }
     },
     {
@@ -57145,8 +57235,13 @@
         ]
       },
       "properties": {
-        "name": "Iran",
-        "childNum": 2
+        "name": "Iran (Islamic Republic of)",
+        "childNum": 2,
+        "numericCode": 364,
+        "alpha2Code": "IR",
+        "alpha3Code": "IRN",
+        "region": "Asia",
+        "subregion": "Southern Asia"
       }
     },
     {
@@ -57564,7 +57659,12 @@
       },
       "properties": {
         "name": "Iraq",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 368,
+        "alpha2Code": "IQ",
+        "alpha3Code": "IRQ",
+        "region": "Asia",
+        "subregion": "Western Asia"
       }
     },
     {
@@ -57922,7 +58022,12 @@
       },
       "properties": {
         "name": "Iceland",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 352,
+        "alpha2Code": "IS",
+        "alpha3Code": "ISL",
+        "region": "Europe",
+        "subregion": "Northern Europe"
       }
     },
     {
@@ -58084,7 +58189,12 @@
       },
       "properties": {
         "name": "Israel",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 376,
+        "alpha2Code": "IL",
+        "alpha3Code": "ISR",
+        "region": "Asia",
+        "subregion": "Western Asia"
       }
     },
     {
@@ -58888,7 +58998,12 @@
       },
       "properties": {
         "name": "Italy",
-        "childNum": 6
+        "childNum": 6,
+        "numericCode": 380,
+        "alpha2Code": "IT",
+        "alpha3Code": "ITA",
+        "region": "Europe",
+        "subregion": "Southern Europe"
       }
     },
     {
@@ -58962,7 +59077,12 @@
       },
       "properties": {
         "name": "Jamaica",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 388,
+        "alpha2Code": "JM",
+        "alpha3Code": "JAM",
+        "region": "Americas",
+        "subregion": "Caribbean"
       }
     },
     {
@@ -58992,7 +59112,12 @@
       },
       "properties": {
         "name": "Jersey",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 832,
+        "alpha2Code": "JE",
+        "alpha3Code": "JEY",
+        "region": "Europe",
+        "subregion": "Northern Europe"
       }
     },
     {
@@ -59154,7 +59279,12 @@
       },
       "properties": {
         "name": "Jordan",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 400,
+        "alpha2Code": "JO",
+        "alpha3Code": "JOR",
+        "region": "Asia",
+        "subregion": "Western Asia"
       }
     },
     {
@@ -60506,7 +60636,12 @@
       },
       "properties": {
         "name": "Japan",
-        "childNum": 28
+        "childNum": 28,
+        "numericCode": 392,
+        "alpha2Code": "JP",
+        "alpha3Code": "JPN",
+        "region": "Asia",
+        "subregion": "Eastern Asia"
       }
     },
     {
@@ -61468,7 +61603,12 @@
       },
       "properties": {
         "name": "Kazakhstan",
-        "childNum": 2
+        "childNum": 2,
+        "numericCode": 398,
+        "alpha2Code": "KZ",
+        "alpha3Code": "KAZ",
+        "region": "Asia",
+        "subregion": "Central Asia"
       }
     },
     {
@@ -61774,7 +61914,12 @@
       },
       "properties": {
         "name": "Kenya",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 404,
+        "alpha2Code": "KE",
+        "alpha3Code": "KEN",
+        "region": "Africa",
+        "subregion": "Eastern Africa"
       }
     },
     {
@@ -62532,7 +62677,12 @@
       },
       "properties": {
         "name": "Kyrgyzstan",
-        "childNum": 3
+        "childNum": 3,
+        "numericCode": 417,
+        "alpha2Code": "KG",
+        "alpha3Code": "KGZ",
+        "region": "Asia",
+        "subregion": "Central Asia"
       }
     },
     {
@@ -62878,7 +63028,12 @@
       },
       "properties": {
         "name": "Cambodia",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 116,
+        "alpha2Code": "KH",
+        "alpha3Code": "KHM",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
       }
     },
     {
@@ -62946,7 +63101,12 @@
       },
       "properties": {
         "name": "Kiribati",
-        "childNum": 2
+        "childNum": 2,
+        "numericCode": 296,
+        "alpha2Code": "KI",
+        "alpha3Code": "KIR",
+        "region": "Oceania",
+        "subregion": "Micronesia"
       }
     },
     {
@@ -63262,7 +63422,12 @@
       },
       "properties": {
         "name": "Korea (Republic of)",
-        "childNum": 7
+        "childNum": 7,
+        "numericCode": 410,
+        "alpha2Code": "KR",
+        "alpha3Code": "KOR",
+        "region": "Asia",
+        "subregion": "Eastern Asia"
       }
     },
     {
@@ -63374,7 +63539,12 @@
       },
       "properties": {
         "name": "Kuwait",
-        "childNum": 2
+        "childNum": 2,
+        "numericCode": 414,
+        "alpha2Code": "KW",
+        "alpha3Code": "KWT",
+        "region": "Asia",
+        "subregion": "Western Asia"
       }
     },
     {
@@ -64391,8 +64561,13 @@
         ]
       },
       "properties": {
-        "name": "Laos",
-        "childNum": 1
+        "name": "Lao People's Democratic Republic",
+        "childNum": 1,
+        "numericCode": 418,
+        "alpha2Code": "LA",
+        "alpha3Code": "LAO",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
       }
     },
     {
@@ -64462,7 +64637,12 @@
       },
       "properties": {
         "name": "Lebanon",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 422,
+        "alpha2Code": "LB",
+        "alpha3Code": "LBN",
+        "region": "Asia",
+        "subregion": "Western Asia"
       }
     },
     {
@@ -64628,7 +64808,12 @@
       },
       "properties": {
         "name": "Liberia",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 430,
+        "alpha2Code": "LR",
+        "alpha3Code": "LBR",
+        "region": "Africa",
+        "subregion": "Western Africa"
       }
     },
     {
@@ -64930,7 +65115,12 @@
       },
       "properties": {
         "name": "Libya",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 434,
+        "alpha2Code": "LY",
+        "alpha3Code": "LBY",
+        "region": "Africa",
+        "subregion": "Northern Africa"
       }
     },
     {
@@ -64964,7 +65154,12 @@
       },
       "properties": {
         "name": "Saint Lucia",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 662,
+        "alpha2Code": "LC",
+        "alpha3Code": "LCA",
+        "region": "Americas",
+        "subregion": "Caribbean"
       }
     },
     {
@@ -65088,7 +65283,12 @@
       },
       "properties": {
         "name": "Sri Lanka",
-        "childNum": 2
+        "childNum": 2,
+        "numericCode": 144,
+        "alpha2Code": "LK",
+        "alpha3Code": "LKA",
+        "region": "Asia",
+        "subregion": "Southern Asia"
       }
     },
     {
@@ -65194,7 +65394,12 @@
       },
       "properties": {
         "name": "Lesotho",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 426,
+        "alpha2Code": "LS",
+        "alpha3Code": "LSO",
+        "region": "Africa",
+        "subregion": "Southern Africa"
       }
     },
     {
@@ -65542,7 +65747,12 @@
       },
       "properties": {
         "name": "Lithuania",
-        "childNum": 2
+        "childNum": 2,
+        "numericCode": 440,
+        "alpha2Code": "LT",
+        "alpha3Code": "LTU",
+        "region": "Europe",
+        "subregion": "Northern Europe"
       }
     },
     {
@@ -65656,7 +65866,12 @@
       },
       "properties": {
         "name": "Luxembourg",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 442,
+        "alpha2Code": "LU",
+        "alpha3Code": "LUX",
+        "region": "Europe",
+        "subregion": "Western Europe"
       }
     },
     {
@@ -65878,7 +66093,12 @@
       },
       "properties": {
         "name": "Latvia",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 428,
+        "alpha2Code": "LV",
+        "alpha3Code": "LVA",
+        "region": "Europe",
+        "subregion": "Northern Europe"
       }
     },
     {
@@ -66095,8 +66315,13 @@
         ]
       },
       "properties": {
-        "name": "Moldova",
-        "childNum": 1
+        "name": "Moldova (Republic of)",
+        "childNum": 1,
+        "numericCode": 498,
+        "alpha2Code": "MD",
+        "alpha3Code": "MDA",
+        "region": "Europe",
+        "subregion": "Eastern Europe"
       }
     },
     {
@@ -66412,7 +66637,12 @@
       },
       "properties": {
         "name": "Madagascar",
-        "childNum": 3
+        "childNum": 3,
+        "numericCode": 450,
+        "alpha2Code": "MG",
+        "alpha3Code": "MDG",
+        "region": "Africa",
+        "subregion": "Eastern Africa"
       }
     },
     {
@@ -67552,7 +67782,12 @@
       },
       "properties": {
         "name": "Mexico",
-        "childNum": 10
+        "childNum": 10,
+        "numericCode": 484,
+        "alpha2Code": "MX",
+        "alpha3Code": "MEX",
+        "region": "Americas",
+        "subregion": "Central America"
       }
     },
     {
@@ -67669,8 +67904,13 @@
         ]
       },
       "properties": {
-        "name": "Macedonia",
-        "childNum": 1
+        "name": "Macedonia (the former Yugoslav Republic of)",
+        "childNum": 1,
+        "numericCode": 807,
+        "alpha2Code": "MK",
+        "alpha3Code": "MKD",
+        "region": "Europe",
+        "subregion": "Southern Europe"
       }
     },
     {
@@ -68196,7 +68436,12 @@
       },
       "properties": {
         "name": "Mali",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 466,
+        "alpha2Code": "ML",
+        "alpha3Code": "MLI",
+        "region": "Africa",
+        "subregion": "Western Africa"
       }
     },
     {
@@ -68226,7 +68471,12 @@
       },
       "properties": {
         "name": "Malta",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 470,
+        "alpha2Code": "MT",
+        "alpha3Code": "MLT",
+        "region": "Europe",
+        "subregion": "Southern Europe"
       }
     },
     {
@@ -69306,7 +69556,12 @@
       },
       "properties": {
         "name": "Myanmar",
-        "childNum": 15
+        "childNum": 15,
+        "numericCode": 104,
+        "alpha2Code": "MM",
+        "alpha3Code": "MMR",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
       }
     },
     {
@@ -69452,7 +69707,12 @@
       },
       "properties": {
         "name": "Montenegro",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 499,
+        "alpha2Code": "ME",
+        "alpha3Code": "MNE",
+        "region": "Europe",
+        "subregion": "Southern Europe"
       }
     },
     {
@@ -70722,7 +70982,12 @@
       },
       "properties": {
         "name": "Mongolia",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 496,
+        "alpha2Code": "MN",
+        "alpha3Code": "MNG",
+        "region": "Asia",
+        "subregion": "Eastern Asia"
       }
     },
     {
@@ -70751,8 +71016,13 @@
         ]
       },
       "properties": {
-        "name": "Northern Mariana Island",
-        "childNum": 1
+        "name": "Northern Mariana Islands",
+        "childNum": 1,
+        "numericCode": 580,
+        "alpha2Code": "MP",
+        "alpha3Code": "MNP",
+        "region": "Oceania",
+        "subregion": "Micronesia"
       }
     },
     {
@@ -71318,7 +71588,12 @@
       },
       "properties": {
         "name": "Mozambique",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 508,
+        "alpha2Code": "MZ",
+        "alpha3Code": "MOZ",
+        "region": "Africa",
+        "subregion": "Eastern Africa"
       }
     },
     {
@@ -71750,7 +72025,12 @@
       },
       "properties": {
         "name": "Mauritania",
-        "childNum": 2
+        "childNum": 2,
+        "numericCode": 478,
+        "alpha2Code": "MR",
+        "alpha3Code": "MRT",
+        "region": "Africa",
+        "subregion": "Western Africa"
       }
     },
     {
@@ -71780,7 +72060,12 @@
       },
       "properties": {
         "name": "Montserrat",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 500,
+        "alpha2Code": "MS",
+        "alpha3Code": "MSR",
+        "region": "Americas",
+        "subregion": "Caribbean"
       }
     },
     {
@@ -71818,7 +72103,12 @@
       },
       "properties": {
         "name": "Mauritius",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 480,
+        "alpha2Code": "MU",
+        "alpha3Code": "MUS",
+        "region": "Africa",
+        "subregion": "Eastern Africa"
       }
     },
     {
@@ -72128,7 +72418,12 @@
       },
       "properties": {
         "name": "Malawi",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 454,
+        "alpha2Code": "MW",
+        "alpha3Code": "MWI",
+        "region": "Africa",
+        "subregion": "Eastern Africa"
       }
     },
     {
@@ -72728,7 +73023,12 @@
       },
       "properties": {
         "name": "Malaysia",
-        "childNum": 8
+        "childNum": 8,
+        "numericCode": 458,
+        "alpha2Code": "MY",
+        "alpha3Code": "MYS",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
       }
     },
     {
@@ -72998,7 +73298,12 @@
       },
       "properties": {
         "name": "Namibia",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 516,
+        "alpha2Code": "NA",
+        "alpha3Code": "NAM",
+        "region": "Africa",
+        "subregion": "Southern Africa"
       }
     },
     {
@@ -73146,7 +73451,12 @@
       },
       "properties": {
         "name": "New Caledonia",
-        "childNum": 4
+        "childNum": 4,
+        "numericCode": 540,
+        "alpha2Code": "NC",
+        "alpha3Code": "NCL",
+        "region": "Oceania",
+        "subregion": "Melanesia"
       }
     },
     {
@@ -73448,7 +73758,12 @@
       },
       "properties": {
         "name": "Niger",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 562,
+        "alpha2Code": "NE",
+        "alpha3Code": "NER",
+        "region": "Africa",
+        "subregion": "Western Africa"
       }
     },
     {
@@ -74060,7 +74375,12 @@
       },
       "properties": {
         "name": "Nigeria",
-        "childNum": 2
+        "childNum": 2,
+        "numericCode": 566,
+        "alpha2Code": "NG",
+        "alpha3Code": "NGA",
+        "region": "Africa",
+        "subregion": "Western Africa"
       }
     },
     {
@@ -74334,7 +74654,12 @@
       },
       "properties": {
         "name": "Nicaragua",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 558,
+        "alpha2Code": "NI",
+        "alpha3Code": "NIC",
+        "region": "Americas",
+        "subregion": "Central America"
       }
     },
     {
@@ -74364,7 +74689,12 @@
       },
       "properties": {
         "name": "Niue",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 570,
+        "alpha2Code": "NU",
+        "alpha3Code": "NIU",
+        "region": "Oceania",
+        "subregion": "Polynesia"
       }
     },
     {
@@ -74612,7 +74942,12 @@
         "cp": [
           5.0752777,
           52.358465
-        ]
+        ],
+        "numericCode": 528,
+        "alpha2Code": "NL",
+        "alpha3Code": "NLD",
+        "region": "Europe",
+        "subregion": "Western Europe"
       }
     },
     {
@@ -76460,7 +76795,12 @@
       },
       "properties": {
         "name": "Norway",
-        "childNum": 27
+        "childNum": 27,
+        "numericCode": 578,
+        "alpha2Code": "NO",
+        "alpha3Code": "NOR",
+        "region": "Europe",
+        "subregion": "Northern Europe"
       }
     },
     {
@@ -76958,7 +77298,12 @@
       },
       "properties": {
         "name": "Nepal",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 524,
+        "alpha2Code": "NP",
+        "alpha3Code": "NPL",
+        "region": "Asia",
+        "subregion": "Southern Asia"
       }
     },
     {
@@ -77786,7 +78131,12 @@
       },
       "properties": {
         "name": "New Zealand",
-        "childNum": 9
+        "childNum": 9,
+        "numericCode": 554,
+        "alpha2Code": "NZ",
+        "alpha3Code": "NZL",
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand"
       }
     },
     {
@@ -78014,7 +78364,12 @@
       },
       "properties": {
         "name": "Oman",
-        "childNum": 3
+        "childNum": 3,
+        "numericCode": 512,
+        "alpha2Code": "OM",
+        "alpha3Code": "OMN",
+        "region": "Asia",
+        "subregion": "Western Asia"
       }
     },
     {
@@ -78812,7 +79167,12 @@
       },
       "properties": {
         "name": "Pakistan",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 586,
+        "alpha2Code": "PK",
+        "alpha3Code": "PAK",
+        "region": "Asia",
+        "subregion": "Southern Asia"
       }
     },
     {
@@ -79136,7 +79496,12 @@
       },
       "properties": {
         "name": "Panama",
-        "childNum": 3
+        "childNum": 3,
+        "numericCode": 591,
+        "alpha2Code": "PA",
+        "alpha3Code": "PAN",
+        "region": "Americas",
+        "subregion": "Central America"
       }
     },
     {
@@ -80114,7 +80479,12 @@
       },
       "properties": {
         "name": "Peru",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 604,
+        "alpha2Code": "PE",
+        "alpha3Code": "PER",
+        "region": "Americas",
+        "subregion": "South America"
       }
     },
     {
@@ -81586,7 +81956,12 @@
       },
       "properties": {
         "name": "Philippines",
-        "childNum": 37
+        "childNum": 37,
+        "numericCode": 608,
+        "alpha2Code": "PH",
+        "alpha3Code": "PHL",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
       }
     },
     {
@@ -81616,7 +81991,12 @@
       },
       "properties": {
         "name": "Palau",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 585,
+        "alpha2Code": "PW",
+        "alpha3Code": "PLW",
+        "region": "Oceania",
+        "subregion": "Micronesia"
       }
     },
     {
@@ -82496,7 +82876,12 @@
       },
       "properties": {
         "name": "Papua New Guinea",
-        "childNum": 21
+        "childNum": 21,
+        "numericCode": 598,
+        "alpha2Code": "PG",
+        "alpha3Code": "PNG",
+        "region": "Oceania",
+        "subregion": "Melanesia"
       }
     },
     {
@@ -82910,7 +83295,12 @@
       },
       "properties": {
         "name": "Poland",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 616,
+        "alpha2Code": "PL",
+        "alpha3Code": "POL",
+        "region": "Europe",
+        "subregion": "Eastern Europe"
       }
     },
     {
@@ -82978,7 +83368,12 @@
       },
       "properties": {
         "name": "Puerto Rico",
-        "childNum": 2
+        "childNum": 2,
+        "numericCode": 630,
+        "alpha2Code": "PR",
+        "alpha3Code": "PRI",
+        "region": "Americas",
+        "subregion": "Caribbean"
       }
     },
     {
@@ -83172,7 +83567,12 @@
       },
       "properties": {
         "name": "Korea (Democratic People's Republic of)",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 408,
+        "alpha2Code": "KP",
+        "alpha3Code": "PRK",
+        "region": "Asia",
+        "subregion": "Eastern Asia"
       }
     },
     {
@@ -83492,7 +83892,12 @@
         "cp": [
           -8.7440694,
           39.9251454
-        ]
+        ],
+        "numericCode": 620,
+        "alpha2Code": "PT",
+        "alpha3Code": "PRT",
+        "region": "Europe",
+        "subregion": "Southern Europe"
       }
     },
     {
@@ -83850,7 +84255,12 @@
       },
       "properties": {
         "name": "Paraguay",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 600,
+        "alpha2Code": "PY",
+        "alpha3Code": "PRY",
+        "region": "Americas",
+        "subregion": "South America"
       }
     },
     {
@@ -83985,8 +84395,13 @@
         ]
       },
       "properties": {
-        "name": "Palestine",
-        "childNum": 2
+        "name": "Palestine, State of",
+        "childNum": 2,
+        "numericCode": 275,
+        "alpha2Code": "PS",
+        "alpha3Code": "PSE",
+        "region": "Asia",
+        "subregion": "Western Asia"
       }
     },
     {
@@ -84117,8 +84532,13 @@
         ]
       },
       "properties": {
-        "name": "Fr. Polynesia",
-        "childNum": 5
+        "name": "French Polynesia",
+        "childNum": 5,
+        "numericCode": 258,
+        "alpha2Code": "PF",
+        "alpha3Code": "PYF",
+        "region": "Oceania",
+        "subregion": "Polynesia"
       }
     },
     {
@@ -84204,7 +84624,12 @@
       },
       "properties": {
         "name": "Qatar",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 634,
+        "alpha2Code": "QA",
+        "alpha3Code": "QAT",
+        "region": "Asia",
+        "subregion": "Western Asia"
       }
     },
     {
@@ -84570,7 +84995,12 @@
       },
       "properties": {
         "name": "Romania",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 642,
+        "alpha2Code": "RO",
+        "alpha3Code": "ROU",
+        "region": "Europe",
+        "subregion": "Eastern Europe"
       }
     },
     {
@@ -92133,8 +92563,13 @@
         ]
       },
       "properties": {
-        "name": "Russia",
-        "childNum": 73
+        "name": "Russian Federation",
+        "childNum": 73,
+        "numericCode": 643,
+        "alpha2Code": "RU",
+        "alpha3Code": "RUS",
+        "region": "Europe",
+        "subregion": "Eastern Europe"
       }
     },
     {
@@ -92288,7 +92723,12 @@
       },
       "properties": {
         "name": "Rwanda",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 646,
+        "alpha2Code": "RW",
+        "alpha3Code": "RWA",
+        "region": "Africa",
+        "subregion": "Eastern Africa"
       }
     },
     {
@@ -92748,7 +93188,12 @@
       },
       "properties": {
         "name": "Saudi Arabia",
-        "childNum": 2
+        "childNum": 2,
+        "numericCode": 682,
+        "alpha2Code": "SA",
+        "alpha3Code": "SAU",
+        "region": "Asia",
+        "subregion": "Western Asia"
       }
     },
     {
@@ -93185,8 +93630,13 @@
         ]
       },
       "properties": {
-        "name": "Sudan",
-        "childNum": 1
+        "name": "South Sudan",
+        "childNum": 1,
+        "numericCode": 728,
+        "alpha2Code": "SS",
+        "alpha3Code": "SSD",
+        "region": "Africa",
+        "subregion": "Middle Africa"
       }
     },
     {
@@ -93507,8 +93957,13 @@
         ]
       },
       "properties": {
-        "name": "S. Sudan",
-        "childNum": 1
+        "name": "South Sudan",
+        "childNum": 1,
+        "numericCode": 728,
+        "alpha2Code": "SS",
+        "alpha3Code": "SSD",
+        "region": "Africa",
+        "subregion": "Middle Africa"
       }
     },
     {
@@ -93798,7 +94253,12 @@
       },
       "properties": {
         "name": "Senegal",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 686,
+        "alpha2Code": "SN",
+        "alpha3Code": "SEN",
+        "region": "Africa",
+        "subregion": "Western Africa"
       }
     },
     {
@@ -93828,7 +94288,12 @@
       },
       "properties": {
         "name": "Singapore",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 702,
+        "alpha2Code": "SG",
+        "alpha3Code": "SGP",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
       }
     },
     {
@@ -93885,8 +94350,13 @@
         ]
       },
       "properties": {
-        "name": "S. Geo. and S. Sandw. Island",
-        "childNum": 1
+        "name": "South Georgia and the South Sandwich Islands",
+        "childNum": 1,
+        "numericCode": 239,
+        "alpha2Code": "GS",
+        "alpha3Code": "SGS",
+        "region": "Americas",
+        "subregion": "South America"
       }
     },
     {
@@ -93915,8 +94385,13 @@
         ]
       },
       "properties": {
-        "name": "Saint Helena",
-        "childNum": 1
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "childNum": 1,
+        "numericCode": 654,
+        "alpha2Code": "SH",
+        "alpha3Code": "SHN",
+        "region": "Africa",
+        "subregion": "Western Africa"
       }
     },
     {
@@ -94375,8 +94850,13 @@
         ]
       },
       "properties": {
-        "name": "Solomon Island",
-        "childNum": 16
+        "name": "Solomon Islands",
+        "childNum": 16,
+        "numericCode": 90,
+        "alpha2Code": "SB",
+        "alpha3Code": "SLB",
+        "region": "Oceania",
+        "subregion": "Melanesia"
       }
     },
     {
@@ -94620,7 +95100,12 @@
       },
       "properties": {
         "name": "Sierra Leone",
-        "childNum": 2
+        "childNum": 2,
+        "numericCode": 694,
+        "alpha2Code": "SL",
+        "alpha3Code": "SLE",
+        "region": "Africa",
+        "subregion": "Western Africa"
       }
     },
     {
@@ -94734,7 +95219,12 @@
       },
       "properties": {
         "name": "El Salvador",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 222,
+        "alpha2Code": "SV",
+        "alpha3Code": "SLV",
+        "region": "Americas",
+        "subregion": "Central America"
       }
     },
     {
@@ -94763,8 +95253,13 @@
         ]
       },
       "properties": {
-        "name": "St. Pierre and Miquelon",
-        "childNum": 1
+        "name": "Saint Pierre and Miquelon",
+        "childNum": 1,
+        "numericCode": 666,
+        "alpha2Code": "PM",
+        "alpha3Code": "SPM",
+        "region": "Americas",
+        "subregion": "Northern America"
       }
     },
     {
@@ -94823,8 +95318,13 @@
         ]
       },
       "properties": {
-        "name": "São Tomé and Principe",
-        "childNum": 2
+        "name": "Sao Tome and Principe",
+        "childNum": 2,
+        "numericCode": 678,
+        "alpha2Code": "ST",
+        "alpha3Code": "STP",
+        "region": "Africa",
+        "subregion": "Middle Africa"
       }
     },
     {
@@ -95106,7 +95606,12 @@
       },
       "properties": {
         "name": "Suriname",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 740,
+        "alpha2Code": "SR",
+        "alpha3Code": "SUR",
+        "region": "Americas",
+        "subregion": "South America"
       }
     },
     {
@@ -95260,7 +95765,12 @@
       },
       "properties": {
         "name": "Slovakia",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 703,
+        "alpha2Code": "SK",
+        "alpha3Code": "SVK",
+        "region": "Europe",
+        "subregion": "Eastern Europe"
       }
     },
     {
@@ -95482,7 +95992,12 @@
       },
       "properties": {
         "name": "Slovenia",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 705,
+        "alpha2Code": "SI",
+        "alpha3Code": "SVN",
+        "region": "Europe",
+        "subregion": "Southern Europe"
       }
     },
     {
@@ -95990,7 +96505,12 @@
       },
       "properties": {
         "name": "Sweden",
-        "childNum": 4
+        "childNum": 4,
+        "numericCode": 752,
+        "alpha2Code": "SE",
+        "alpha3Code": "SWE",
+        "region": "Europe",
+        "subregion": "Northern Europe"
       }
     },
     {
@@ -96108,7 +96628,12 @@
       },
       "properties": {
         "name": "Swaziland",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 748,
+        "alpha2Code": "SZ",
+        "alpha3Code": "SWZ",
+        "region": "Africa",
+        "subregion": "Southern Africa"
       }
     },
     {
@@ -96142,7 +96667,12 @@
       },
       "properties": {
         "name": "Seychelles",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 690,
+        "alpha2Code": "SC",
+        "alpha3Code": "SYC",
+        "region": "Africa",
+        "subregion": "Eastern Africa"
       }
     },
     {
@@ -96407,8 +96937,13 @@
         ]
       },
       "properties": {
-        "name": "Syria",
-        "childNum": 1
+        "name": "Syrian Arab Republic",
+        "childNum": 1,
+        "numericCode": 760,
+        "alpha2Code": "SY",
+        "alpha3Code": "SYR",
+        "region": "Asia",
+        "subregion": "Western Asia"
       }
     },
     {
@@ -96437,8 +96972,13 @@
         ]
       },
       "properties": {
-        "name": "Turks and Caicos Island",
-        "childNum": 1
+        "name": "Turks and Caicos Islands",
+        "childNum": 1,
+        "numericCode": 796,
+        "alpha2Code": "TC",
+        "alpha3Code": "TCA",
+        "region": "Americas",
+        "subregion": "Caribbean"
       }
     },
     {
@@ -96700,7 +97240,12 @@
       },
       "properties": {
         "name": "Chad",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 148,
+        "alpha2Code": "TD",
+        "alpha3Code": "TCD",
+        "region": "Africa",
+        "subregion": "Middle Africa"
       }
     },
     {
@@ -96822,7 +97367,12 @@
       },
       "properties": {
         "name": "Togo",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 768,
+        "alpha2Code": "TG",
+        "alpha3Code": "TGO",
+        "region": "Africa",
+        "subregion": "Western Africa"
       }
     },
     {
@@ -97618,7 +98168,12 @@
       },
       "properties": {
         "name": "Thailand",
-        "childNum": 4
+        "childNum": 4,
+        "numericCode": 764,
+        "alpha2Code": "TH",
+        "alpha3Code": "THA",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
       }
     },
     {
@@ -98214,7 +98769,12 @@
       },
       "properties": {
         "name": "Tajikistan",
-        "childNum": 2
+        "childNum": 2,
+        "numericCode": 762,
+        "alpha2Code": "TJ",
+        "alpha3Code": "TJK",
+        "region": "Asia",
+        "subregion": "Central Asia"
       }
     },
     {
@@ -98648,7 +99208,12 @@
       },
       "properties": {
         "name": "Turkmenistan",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 795,
+        "alpha2Code": "TM",
+        "alpha3Code": "TKM",
+        "region": "Asia",
+        "subregion": "Central Asia"
       }
     },
     {
@@ -98760,7 +99325,12 @@
       },
       "properties": {
         "name": "Timor-Leste",
-        "childNum": 3
+        "childNum": 3,
+        "numericCode": 626,
+        "alpha2Code": "TL",
+        "alpha3Code": "TLS",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
       }
     },
     {
@@ -98816,7 +99386,12 @@
       },
       "properties": {
         "name": "Tonga",
-        "childNum": 2
+        "childNum": 2,
+        "numericCode": 776,
+        "alpha2Code": "TO",
+        "alpha3Code": "TON",
+        "region": "Oceania",
+        "subregion": "Polynesia"
       }
     },
     {
@@ -98862,7 +99437,12 @@
       },
       "properties": {
         "name": "Trinidad and Tobago",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 780,
+        "alpha2Code": "TT",
+        "alpha3Code": "TTO",
+        "region": "Americas",
+        "subregion": "Caribbean"
       }
     },
     {
@@ -99170,7 +99750,12 @@
       },
       "properties": {
         "name": "Tunisia",
-        "childNum": 3
+        "childNum": 3,
+        "numericCode": 788,
+        "alpha2Code": "TN",
+        "alpha3Code": "TUN",
+        "region": "Africa",
+        "subregion": "Northern Africa"
       }
     },
     {
@@ -100042,7 +100627,12 @@
       },
       "properties": {
         "name": "Turkey",
-        "childNum": 3
+        "childNum": 3,
+        "numericCode": 792,
+        "alpha2Code": "TR",
+        "alpha3Code": "TUR",
+        "region": "Asia",
+        "subregion": "Western Asia"
       }
     },
     {
@@ -100621,8 +101211,13 @@
         ]
       },
       "properties": {
-        "name": "Tanzania",
-        "childNum": 4
+        "name": "Tanzania, United Republic of",
+        "childNum": 4,
+        "numericCode": 834,
+        "alpha2Code": "TZ",
+        "alpha3Code": "TZA",
+        "region": "Africa",
+        "subregion": "Eastern Africa"
       }
     },
     {
@@ -100864,7 +101459,12 @@
       },
       "properties": {
         "name": "Uganda",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 800,
+        "alpha2Code": "UG",
+        "alpha3Code": "UGA",
+        "region": "Africa",
+        "subregion": "Eastern Africa"
       }
     },
     {
@@ -101720,7 +102320,12 @@
       },
       "properties": {
         "name": "Ukraine",
-        "childNum": 2
+        "childNum": 2,
+        "numericCode": 804,
+        "alpha2Code": "UA",
+        "alpha3Code": "UKR",
+        "region": "Europe",
+        "subregion": "Eastern Europe"
       }
     },
     {
@@ -102010,7 +102615,12 @@
       },
       "properties": {
         "name": "Uruguay",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 858,
+        "alpha2Code": "UY",
+        "alpha3Code": "URY",
+        "region": "Americas",
+        "subregion": "South America"
       }
     },
     {
@@ -107630,7 +108240,12 @@
       },
       "properties": {
         "name": "United States of America",
-        "childNum": 76
+        "childNum": 76,
+        "numericCode": 840,
+        "alpha2Code": "US",
+        "alpha3Code": "USA",
+        "region": "Americas",
+        "subregion": "Northern America"
       }
     },
     {
@@ -108202,7 +108817,12 @@
       },
       "properties": {
         "name": "Uzbekistan",
-        "childNum": 2
+        "childNum": 2,
+        "numericCode": 860,
+        "alpha2Code": "UZ",
+        "alpha3Code": "UZB",
+        "region": "Asia",
+        "subregion": "Central Asia"
       }
     },
     {
@@ -108232,7 +108852,12 @@
       },
       "properties": {
         "name": "Saint Vincent and the Grenadines",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 670,
+        "alpha2Code": "VC",
+        "alpha3Code": "VCT",
+        "region": "Americas",
+        "subregion": "Caribbean"
       }
     },
     {
@@ -108911,8 +109536,13 @@
         ]
       },
       "properties": {
-        "name": "Venezuela",
-        "childNum": 4
+        "name": "Venezuela (Bolivarian Republic of)",
+        "childNum": 4,
+        "numericCode": 862,
+        "alpha2Code": "VE",
+        "alpha3Code": "VEN",
+        "region": "Americas",
+        "subregion": "South America"
       }
     },
     {
@@ -108941,8 +109571,13 @@
         ]
       },
       "properties": {
-        "name": "U.S. Virgin Island",
-        "childNum": 1
+        "name": "Virgin Islands (U.S.)",
+        "childNum": 1,
+        "numericCode": 850,
+        "alpha2Code": "VI",
+        "alpha3Code": "VIR",
+        "region": "Americas",
+        "subregion": "Caribbean"
       }
     },
     {
@@ -109781,8 +110416,13 @@
         ]
       },
       "properties": {
-        "name": "Vietnam",
-        "childNum": 4
+        "name": "Viet Nam",
+        "childNum": 4,
+        "numericCode": 704,
+        "alpha2Code": "VN",
+        "alpha3Code": "VNM",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
       }
     },
     {
@@ -110050,7 +110690,12 @@
       },
       "properties": {
         "name": "Vanuatu",
-        "childNum": 10
+        "childNum": 10,
+        "numericCode": 548,
+        "alpha2Code": "VU",
+        "alpha3Code": "VUT",
+        "region": "Oceania",
+        "subregion": "Melanesia"
       }
     },
     {
@@ -110113,8 +110758,13 @@
         ]
       },
       "properties": {
-        "name": "Samoa",
-        "childNum": 2
+        "name": "American Samoa",
+        "childNum": 2,
+        "numericCode": 16,
+        "alpha2Code": "AS",
+        "alpha3Code": "ASM",
+        "region": "Oceania",
+        "subregion": "Polynesia"
       }
     },
     {
@@ -110370,7 +111020,12 @@
       },
       "properties": {
         "name": "Yemen",
-        "childNum": 4
+        "childNum": 4,
+        "numericCode": 887,
+        "alpha2Code": "YE",
+        "alpha3Code": "YEM",
+        "region": "Asia",
+        "subregion": "Western Asia"
       }
     },
     {
@@ -111008,7 +111663,12 @@
       },
       "properties": {
         "name": "South Africa",
-        "childNum": 2
+        "childNum": 2,
+        "numericCode": 710,
+        "alpha2Code": "ZA",
+        "alpha3Code": "ZAF",
+        "region": "Africa",
+        "subregion": "Southern Africa"
       }
     },
     {
@@ -111410,7 +112070,12 @@
       },
       "properties": {
         "name": "Zambia",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 894,
+        "alpha2Code": "ZM",
+        "alpha3Code": "ZMB",
+        "region": "Africa",
+        "subregion": "Eastern Africa"
       }
     },
     {
@@ -111608,7 +112273,12 @@
       },
       "properties": {
         "name": "Zimbabwe",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 716,
+        "alpha2Code": "ZW",
+        "alpha3Code": "ZWE",
+        "region": "Africa",
+        "subregion": "Eastern Africa"
       }
     },
     {
