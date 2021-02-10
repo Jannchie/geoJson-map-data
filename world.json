@@ -43745,13 +43745,13 @@
         ]
       },
       "properties": {
-        "name": "Equatorial Guinea",
+        "name": "Guinea",
         "childNum": 1,
-        "numericCode": 226,
-        "alpha2Code": "GQ",
-        "alpha3Code": "GNQ",
+        "numericCode": 324,
+        "alpha2Code": "GN",
+        "alpha3Code": "GIN",
         "region": "Africa",
-        "subregion": "Middle Africa"
+        "subregion": "Western Africa"
       }
     },
     {
@@ -110764,11 +110764,11 @@
         ]
       },
       "properties": {
-        "name": "American Samoa",
+        "name": "Samoa",
         "childNum": 2,
-        "numericCode": 16,
-        "alpha2Code": "AS",
-        "alpha3Code": "ASM",
+        "numericCode": 882,
+        "alpha2Code": "WS",
+        "alpha3Code": "WSM",
         "region": "Oceania",
         "subregion": "Polynesia"
       }
