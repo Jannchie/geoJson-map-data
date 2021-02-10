@@ -56052,13 +56052,13 @@
         ]
       },
       "properties": {
-        "name": "British Indian Ocean Territory",
+        "name": "India",
         "childNum": 1,
-        "numericCode": 86,
-        "alpha2Code": "IO",
-        "alpha3Code": "IOT",
-        "region": "Africa",
-        "subregion": "Eastern Africa"
+        "numericCode": 91,
+        "alpha2Code": "IN",
+        "alpha3Code": "IND",
+        "region": "Asia",
+        "subregion": "Southern Asia"
       }
     },
     {
