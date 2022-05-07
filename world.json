@@ -34582,7 +34582,12 @@
       },
       "properties": {
         "name": "Northern Cyprus",
-        "childNum": 1
+        "childNum": 1,
+        "numericCode": 0,
+        "alpha2Code": "undefined",
+        "alpha3Code": "undefined",
+        "region": "undefined",
+        "subregion": "undefined"
       }
     },
     {
@@ -60721,7 +60726,11 @@
       },
       "properties": {
         "name": "Siachen Glacier",
-        "childNum": 1
+        "childNum": 1,
+        "alpha2Code": "undefined",
+        "alpha3Code": "undefined",
+        "region": "Asia",
+        "subregion": "Central Asia"
       }
     },
     {
@@ -112573,8 +112582,13 @@
         ]
       },
       "properties": {
-        "name": "",
-        "childNum": 1
+        "name": "undefined",
+        "childNum": 0,
+        "numericCode": 0,
+        "alpha2Code": "undefined",
+        "alpha3Code": "undefined",
+        "region": "undefined",
+        "subregion": "undefined"
       }
     },
     {
@@ -112872,7 +112886,15 @@
           ]
         ]
       },
-      "properties": {}
+      "properties": {
+        "name": "undefined",
+        "childNum": 0,
+        "numericCode": 0,
+        "alpha2Code": "undefined",
+        "alpha3Code": "undefined",
+        "region": "undefined",
+        "subregion": "undefined"
+      }
     }
   ]
 }
