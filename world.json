@@ -243,7 +243,11 @@
         "alpha2Code": "SO",
         "alpha3Code": "SOM",
         "region": "Africa",
-        "subregion": "Eastern Africa"
+        "subregion": "Eastern Africa",
+        "center": [
+          45.81618764976604,
+          6.060536505902558
+        ]
       }
     },
     {
@@ -286,7 +290,11 @@
         "alpha2Code": "LI",
         "alpha3Code": "LIE",
         "region": "Europe",
-        "subregion": "Western Europe"
+        "subregion": "Western Europe",
+        "center": [
+          9.506783562970007,
+          47.1273110206765
+        ]
       }
     },
     {
@@ -597,7 +605,11 @@
         "alpha2Code": "MA",
         "alpha3Code": "MAR",
         "region": "Africa",
-        "subregion": "Northern Africa"
+        "subregion": "Northern Africa",
+        "center": [
+          -6.275624561429642,
+          31.938554395761017
+        ]
       }
     },
     {
@@ -838,7 +850,11 @@
         "alpha2Code": "EH",
         "alpha3Code": "ESH",
         "region": "Africa",
-        "subregion": "Northern Africa"
+        "subregion": "Northern Africa",
+        "center": [
+          -13.110226021360951,
+          24.72446883390038
+        ]
       }
     },
     {
@@ -1233,7 +1249,11 @@
         "alpha2Code": "RS",
         "alpha3Code": "SRB",
         "region": "Europe",
-        "subregion": "Southern Europe"
+        "subregion": "Southern Europe",
+        "center": [
+          20.8003197037728,
+          44.00803772365178
+        ]
       }
     },
     {
@@ -2004,7 +2024,11 @@
         "alpha2Code": "AF",
         "alpha3Code": "AFG",
         "region": "Asia",
-        "subregion": "Southern Asia"
+        "subregion": "Southern Asia",
+        "center": [
+          65.95776740913571,
+          33.81807892918971
+        ]
       }
     },
     {
@@ -2501,7 +2525,11 @@
         "alpha2Code": "AO",
         "alpha3Code": "AGO",
         "region": "Africa",
-        "subregion": "Middle Africa"
+        "subregion": "Middle Africa",
+        "center": [
+          17.523136459196458,
+          -12.290181733896254
+        ]
       }
     },
     {
@@ -2656,7 +2684,11 @@
         "alpha2Code": "AL",
         "alpha3Code": "ALB",
         "region": "Europe",
-        "subregion": "Southern Europe"
+        "subregion": "Southern Europe",
+        "center": [
+          20.054232246199238,
+          41.14067979028539
+        ]
       }
     },
     {
@@ -2725,7 +2757,11 @@
         "alpha2Code": "AX",
         "alpha3Code": "ALA",
         "region": "Europe",
-        "subregion": "Northern Europe"
+        "subregion": "Northern Europe",
+        "center": [
+          19.91806296771675,
+          60.23594781224663
+        ]
       }
     },
     {
@@ -2796,7 +2832,11 @@
         "alpha2Code": "AD",
         "alpha3Code": "AND",
         "region": "Europe",
-        "subregion": "Southern Europe"
+        "subregion": "Southern Europe",
+        "center": [
+          1.5603422178191768,
+          42.54236395118256
+        ]
       }
     },
     {
@@ -2973,7 +3013,11 @@
         "alpha2Code": "AE",
         "alpha3Code": "ARE",
         "region": "Asia",
-        "subregion": "Western Asia"
+        "subregion": "Western Asia",
+        "center": [
+          54.293641282530224,
+          23.901210524604622
+        ]
       }
     },
     {
@@ -4134,7 +4178,11 @@
         "alpha2Code": "AR",
         "alpha3Code": "ARG",
         "region": "Americas",
-        "subregion": "South America"
+        "subregion": "South America",
+        "center": [
+          -64.7969310367417,
+          -35.047420405311726
+        ]
       }
     },
     {
@@ -4277,7 +4325,11 @@
         "alpha2Code": "AM",
         "alpha3Code": "ARM",
         "region": "Asia",
-        "subregion": "Western Asia"
+        "subregion": "Western Asia",
+        "center": [
+          44.91489695003671,
+          40.29882931655982
+        ]
       }
     },
     {
@@ -4312,7 +4364,11 @@
         "alpha2Code": "AS",
         "alpha3Code": "ASM",
         "region": "Oceania",
-        "subregion": "Polynesia"
+        "subregion": "Polynesia",
+        "center": [
+          -170.70495124818393,
+          -14.310026256713623
+        ]
       }
     },
     {
@@ -4461,7 +4517,11 @@
         "alpha2Code": "TF",
         "alpha3Code": "ATF",
         "region": "Africa",
-        "subregion": "Southern Africa"
+        "subregion": "Southern Africa",
+        "center": [
+          69.3481555751479,
+          -49.26854879148891
+        ]
       }
     },
     {
@@ -4500,7 +4560,11 @@
         "alpha2Code": "AG",
         "alpha3Code": "ATG",
         "region": "Americas",
-        "subregion": "Caribbean"
+        "subregion": "Caribbean",
+        "center": [
+          -61.8130137209274,
+          17.07858479768725
+        ]
       }
     },
     {
@@ -6765,7 +6829,11 @@
         "alpha2Code": "AU",
         "alpha3Code": "AUS",
         "region": "Oceania",
-        "subregion": "Australia and New Zealand"
+        "subregion": "Australia and New Zealand",
+        "center": [
+          134.15236249016831,
+          -25.6426900102242
+        ]
       }
     },
     {
@@ -7200,7 +7268,11 @@
         "alpha2Code": "AT",
         "alpha3Code": "AUT",
         "region": "Europe",
-        "subregion": "Western Europe"
+        "subregion": "Western Europe",
+        "center": [
+          14.121541346664815,
+          47.57513276365997
+        ]
       }
     },
     {
@@ -7469,7 +7541,11 @@
         "alpha2Code": "AZ",
         "alpha3Code": "AZE",
         "region": "Asia",
-        "subregion": "Western Asia"
+        "subregion": "Western Asia",
+        "center": [
+          47.54954340619082,
+          40.275527366614796
+        ]
       }
     },
     {
@@ -7600,7 +7676,11 @@
         "alpha2Code": "BI",
         "alpha3Code": "BDI",
         "region": "Africa",
-        "subregion": "Eastern Africa"
+        "subregion": "Eastern Africa",
+        "center": [
+          29.881238517784503,
+          -3.3644678124947913
+        ]
       }
     },
     {
@@ -7747,7 +7827,11 @@
         "alpha2Code": "BE",
         "alpha3Code": "BEL",
         "region": "Europe",
-        "subregion": "Western Europe"
+        "subregion": "Western Europe",
+        "center": [
+          4.646578206885351,
+          50.63072253547071
+        ]
       }
     },
     {
@@ -7954,7 +8038,11 @@
         "alpha2Code": "BJ",
         "alpha3Code": "BEN",
         "region": "Africa",
-        "subregion": "Western Africa"
+        "subregion": "Western Africa",
+        "center": [
+          2.326004589653847,
+          9.640538697699435
+        ]
       }
     },
     {
@@ -8265,7 +8353,11 @@
         "alpha2Code": "BF",
         "alpha3Code": "BFA",
         "region": "Africa",
-        "subregion": "Western Africa"
+        "subregion": "Western Africa",
+        "center": [
+          -1.764261826462826,
+          12.267909752011445
+        ]
       }
     },
     {
@@ -8890,7 +8982,11 @@
         "alpha2Code": "BD",
         "alpha3Code": "BGD",
         "region": "Asia",
-        "subregion": "Southern Asia"
+        "subregion": "Southern Asia",
+        "center": [
+          90.22513478945206,
+          23.880027036841554
+        ]
       }
     },
     {
@@ -9233,7 +9329,11 @@
         "alpha2Code": "BG",
         "alpha3Code": "BGR",
         "region": "Europe",
-        "subregion": "Eastern Europe"
+        "subregion": "Eastern Europe",
+        "center": [
+          25.217173308394514,
+          42.76154086207082
+        ]
       }
     },
     {
@@ -9276,7 +9376,11 @@
         "alpha2Code": "BH",
         "alpha3Code": "BHR",
         "region": "Asia",
-        "subregion": "Western Asia"
+        "subregion": "Western Asia",
+        "center": [
+          50.53737058085778,
+          26.046716646018602
+        ]
       }
     },
     {
@@ -9721,7 +9825,11 @@
         "alpha2Code": "BS",
         "alpha3Code": "BHS",
         "region": "Americas",
-        "subregion": "Caribbean"
+        "subregion": "Caribbean",
+        "center": [
+          -76.78094236520708,
+          24.39076773621221
+        ]
       }
     },
     {
@@ -9908,7 +10016,11 @@
         "alpha2Code": "BA",
         "alpha3Code": "BIH",
         "region": "Europe",
-        "subregion": "Southern Europe"
+        "subregion": "Southern Europe",
+        "center": [
+          17.767900396670917,
+          44.174461389060404
+        ]
       }
     },
     {
@@ -10611,7 +10723,11 @@
         "alpha2Code": "BY",
         "alpha3Code": "BLR",
         "region": "Europe",
-        "subregion": "Eastern Europe"
+        "subregion": "Eastern Europe",
+        "center": [
+          28.016173774332323,
+          53.504423334035835
+        ]
       }
     },
     {
@@ -10708,7 +10824,11 @@
         "alpha2Code": "BZ",
         "alpha3Code": "BLZ",
         "region": "Americas",
-        "subregion": "Central America"
+        "subregion": "Central America",
+        "center": [
+          -88.71155689161859,
+          17.18387707594173
+        ]
       }
     },
     {
@@ -10743,7 +10863,11 @@
         "alpha2Code": "BM",
         "alpha3Code": "BMU",
         "region": "Americas",
-        "subregion": "Northern America"
+        "subregion": "Northern America",
+        "center": [
+          -64.75381106294546,
+          32.31642211427573
+        ]
       }
     },
     {
@@ -11406,7 +11530,11 @@
         "alpha2Code": "BO",
         "alpha3Code": "BOL",
         "region": "Americas",
-        "subregion": "South America"
+        "subregion": "South America",
+        "center": [
+          -64.66281404750953,
+          -16.69679418685766
+        ]
       }
     },
     {
@@ -14051,7 +14179,11 @@
         "alpha2Code": "BR",
         "alpha3Code": "BRA",
         "region": "Americas",
-        "subregion": "South America"
+        "subregion": "South America",
+        "center": [
+          -52.9718302664703,
+          -10.740086389956977
+        ]
       }
     },
     {
@@ -14090,7 +14222,11 @@
         "alpha2Code": "BB",
         "alpha3Code": "BRB",
         "region": "Americas",
-        "subregion": "Caribbean"
+        "subregion": "Caribbean",
+        "center": [
+          -59.551634350354185,
+          13.17126222919773
+        ]
       }
     },
     {
@@ -14167,7 +14303,11 @@
         "alpha2Code": "BN",
         "alpha3Code": "BRN",
         "region": "Asia",
-        "subregion": "South-Eastern Asia"
+        "subregion": "South-Eastern Asia",
+        "center": [
+          114.68372641315852,
+          4.529637158281869
+        ]
       }
     },
     {
@@ -14434,7 +14574,11 @@
         "alpha2Code": "BT",
         "alpha3Code": "BTN",
         "region": "Asia",
-        "subregion": "Southern Asia"
+        "subregion": "Southern Asia",
+        "center": [
+          90.39931105345723,
+          27.40943317181718
+        ]
       }
     },
     {
@@ -14697,7 +14841,11 @@
         "alpha2Code": "BW",
         "alpha3Code": "BWA",
         "region": "Africa",
-        "subregion": "Southern Africa"
+        "subregion": "Southern Africa",
+        "center": [
+          23.790236957017004,
+          -22.174294635266595
+        ]
       }
     },
     {
@@ -14964,7 +15112,11 @@
         "alpha2Code": "CF",
         "alpha3Code": "CAF",
         "region": "Africa",
-        "subregion": "Middle Africa"
+        "subregion": "Middle Africa",
+        "center": [
+          20.457458985571982,
+          6.56230728064999
+        ]
       }
     },
     {
@@ -24869,7 +25021,11 @@
         "alpha2Code": "CA",
         "alpha3Code": "CAN",
         "region": "Americas",
-        "subregion": "Northern America"
+        "subregion": "Northern America",
+        "center": [
+          -97.32445869846069,
+          59.62691653658559
+        ]
       }
     },
     {
@@ -25268,7 +25424,11 @@
         "alpha2Code": "CH",
         "alpha3Code": "CHE",
         "region": "Europe",
-        "subregion": "Western Europe"
+        "subregion": "Western Europe",
+        "center": [
+          8.203720950322746,
+          46.795259626789786
+        ]
       }
     },
     {
@@ -27421,7 +27581,11 @@
         "alpha2Code": "CL",
         "alpha3Code": "CHL",
         "region": "Americas",
-        "subregion": "South America"
+        "subregion": "South America",
+        "center": [
+          -70.71222980888386,
+          -36.84851987727617
+        ]
       }
     },
     {
@@ -30955,7 +31119,11 @@
         "alpha2Code": "CN",
         "alpha3Code": "CHN",
         "region": "Asia",
-        "subregion": "Eastern Asia"
+        "subregion": "Eastern Asia",
+        "center": [
+          103.27936611739561,
+          36.170667577972715
+        ]
       }
     },
     {
@@ -31462,7 +31630,11 @@
         "alpha2Code": "CI",
         "alpha3Code": "CIV",
         "region": "Africa",
-        "subregion": "Western Africa"
+        "subregion": "Western Africa",
+        "center": [
+          -5.570861964036274,
+          7.623850258598485
+        ]
       }
     },
     {
@@ -31917,7 +32089,11 @@
         "alpha2Code": "CM",
         "alpha3Code": "CMR",
         "region": "Africa",
-        "subregion": "Middle Africa"
+        "subregion": "Middle Africa",
+        "center": [
+          12.73915640988759,
+          5.689553343199624
+        ]
       }
     },
     {
@@ -32648,7 +32824,11 @@
         "alpha2Code": "CD",
         "alpha3Code": "COD",
         "region": "Africa",
-        "subregion": "Middle Africa"
+        "subregion": "Middle Africa",
+        "center": [
+          23.618498829809784,
+          -2.873077176634109
+        ]
       }
     },
     {
@@ -32955,7 +33135,11 @@
         "alpha2Code": "CG",
         "alpha3Code": "COG",
         "region": "Africa",
-        "subregion": "Middle Africa"
+        "subregion": "Middle Africa",
+        "center": [
+          15.214328773557153,
+          -0.8403843201797037
+        ]
       }
     },
     {
@@ -33602,7 +33786,11 @@
         "alpha2Code": "CO",
         "alpha3Code": "COL",
         "region": "Americas",
-        "subregion": "South America"
+        "subregion": "South America",
+        "center": [
+          -73.04123300679417,
+          3.912010442143084
+        ]
       }
     },
     {
@@ -33687,7 +33875,11 @@
         "alpha2Code": "KM",
         "alpha3Code": "COM",
         "region": "Africa",
-        "subregion": "Eastern Africa"
+        "subregion": "Eastern Africa",
+        "center": [
+          43.70252592714875,
+          -11.876649563063541
+        ]
       }
     },
     {
@@ -33892,7 +34084,11 @@
         "alpha2Code": "CV",
         "alpha3Code": "CPV",
         "region": "Africa",
-        "subregion": "Western Africa"
+        "subregion": "Western Africa",
+        "center": [
+          -24.007835995851707,
+          15.98361601742781
+        ]
       }
     },
     {
@@ -34111,7 +34307,11 @@
         "alpha2Code": "CR",
         "alpha3Code": "CRI",
         "region": "Americas",
-        "subregion": "Central America"
+        "subregion": "Central America",
+        "center": [
+          -84.18447140190759,
+          9.971790146789171
+        ]
       }
     },
     {
@@ -34432,7 +34632,11 @@
         "alpha2Code": "CU",
         "alpha3Code": "CUB",
         "region": "Americas",
-        "subregion": "Caribbean"
+        "subregion": "Caribbean",
+        "center": [
+          -79.00131734585864,
+          21.621174949544024
+        ]
       }
     },
     {
@@ -34467,7 +34671,11 @@
         "alpha2Code": "CW",
         "alpha3Code": "CUW",
         "region": "Americas",
-        "subregion": "Caribbean"
+        "subregion": "Caribbean",
+        "center": [
+          -68.96827448462686,
+          12.19396454800032
+        ]
       }
     },
     {
@@ -34524,7 +34732,11 @@
         "alpha2Code": "KY",
         "alpha3Code": "CYM",
         "region": "Americas",
-        "subregion": "Caribbean"
+        "subregion": "Caribbean",
+        "center": [
+          -81.10336782580309,
+          19.364357600669546
+        ]
       }
     },
     {
@@ -34587,7 +34799,11 @@
         "alpha2Code": "undefined",
         "alpha3Code": "undefined",
         "region": "undefined",
-        "subregion": "undefined"
+        "subregion": "undefined",
+        "center": [
+          33.556643239592134,
+          35.25686715568626
+        ]
       }
     },
     {
@@ -34654,7 +34870,11 @@
         "alpha2Code": "CY",
         "alpha3Code": "CYP",
         "region": "Europe",
-        "subregion": "Southern Europe"
+        "subregion": "Southern Europe",
+        "center": [
+          32.971097488124144,
+          34.90824789364241
+        ]
       }
     },
     {
@@ -34909,7 +35129,11 @@
         "alpha2Code": "CZ",
         "alpha3Code": "CZE",
         "region": "Europe",
-        "subregion": "Eastern Europe"
+        "subregion": "Eastern Europe",
+        "center": [
+          15.33008296273794,
+          49.72045174511585
+        ]
       }
     },
     {
@@ -35714,7 +35938,11 @@
         "alpha2Code": "DE",
         "alpha3Code": "DEU",
         "region": "Europe",
-        "subregion": "Western Europe"
+        "subregion": "Western Europe",
+        "center": [
+          10.376130593040681,
+          51.05064791934552
+        ]
       }
     },
     {
@@ -35825,7 +36053,11 @@
         "alpha2Code": "DJ",
         "alpha3Code": "DJI",
         "region": "Africa",
-        "subregion": "Eastern Africa"
+        "subregion": "Eastern Africa",
+        "center": [
+          42.56139207625021,
+          11.76403765468091
+        ]
       }
     },
     {
@@ -35864,7 +36096,11 @@
         "alpha2Code": "DM",
         "alpha3Code": "DMA",
         "region": "Americas",
-        "subregion": "Caribbean"
+        "subregion": "Caribbean",
+        "center": [
+          -61.353303697255775,
+          15.425687000931509
+        ]
       }
     },
     {
@@ -36261,7 +36497,11 @@
         "alpha2Code": "DK",
         "alpha3Code": "DNK",
         "region": "Europe",
-        "subregion": "Northern Europe"
+        "subregion": "Northern Europe",
+        "center": [
+          10.015142143264729,
+          55.99673909093398
+        ]
       }
     },
     {
@@ -36432,7 +36672,11 @@
         "alpha2Code": "DO",
         "alpha3Code": "DOM",
         "region": "Americas",
-        "subregion": "Caribbean"
+        "subregion": "Caribbean",
+        "center": [
+          -70.52799718772977,
+          18.89852062497685
+        ]
       }
     },
     {
@@ -36887,7 +37131,11 @@
         "alpha2Code": "DZ",
         "alpha3Code": "DZA",
         "region": "Africa",
-        "subregion": "Northern Africa"
+        "subregion": "Northern Africa",
+        "center": [
+          2.6191535349075195,
+          28.106543182897063
+        ]
       }
     },
     {
@@ -37480,7 +37728,11 @@
         "alpha2Code": "EC",
         "alpha3Code": "ECU",
         "region": "Americas",
-        "subregion": "South America"
+        "subregion": "South America",
+        "center": [
+          -78.70379630490454,
+          -1.4252458767707084
+        ]
       }
     },
     {
@@ -37735,7 +37987,11 @@
         "alpha2Code": "EG",
         "alpha3Code": "EGY",
         "region": "Africa",
-        "subregion": "Northern Africa"
+        "subregion": "Northern Africa",
+        "center": [
+          29.852863685230798,
+          26.476758228128748
+        ]
       }
     },
     {
@@ -38156,7 +38412,11 @@
         "alpha2Code": "ER",
         "alpha3Code": "ERI",
         "region": "Africa",
-        "subregion": "Eastern Africa"
+        "subregion": "Eastern Africa",
+        "center": [
+          38.82820918523194,
+          15.362111255686587
+        ]
       }
     },
     {
@@ -38817,7 +39077,11 @@
         "alpha2Code": "ES",
         "alpha3Code": "ESP",
         "region": "Europe",
-        "subregion": "Southern Europe"
+        "subregion": "Southern Europe",
+        "center": [
+          -3.649366832129283,
+          40.23139978459379
+        ]
       }
     },
     {
@@ -39050,7 +39314,11 @@
         "alpha2Code": "EE",
         "alpha3Code": "EST",
         "region": "Europe",
-        "subregion": "Northern Europe"
+        "subregion": "Northern Europe",
+        "center": [
+          25.556708381606555,
+          58.66323844501407
+        ]
       }
     },
     {
@@ -39465,7 +39733,11 @@
         "alpha2Code": "ET",
         "alpha3Code": "ETH",
         "region": "Africa",
-        "subregion": "Eastern Africa"
+        "subregion": "Eastern Africa",
+        "center": [
+          39.6010403198459,
+          8.616527188043023
+        ]
       }
     },
     {
@@ -39886,7 +40158,11 @@
         "alpha2Code": "FI",
         "alpha3Code": "FIN",
         "region": "Europe",
-        "subregion": "Northern Europe"
+        "subregion": "Northern Europe",
+        "center": [
+          26.248353869877377,
+          64.35119089305552
+        ]
       }
     },
     {
@@ -40119,7 +40395,11 @@
         "alpha2Code": "FJ",
         "alpha3Code": "FJI",
         "region": "Oceania",
-        "subregion": "Melanesia"
+        "subregion": "Melanesia",
+        "center": [
+          174.77870895274035,
+          -17.404551415879048
+        ]
       }
     },
     {
@@ -40320,7 +40600,11 @@
         "alpha2Code": "FK",
         "alpha3Code": "FLK",
         "region": "Americas",
-        "subregion": "South America"
+        "subregion": "South America",
+        "center": [
+          -59.35550491957592,
+          -51.73707272313789
+        ]
       }
     },
     {
@@ -41277,7 +41561,11 @@
         "alpha2Code": "FR",
         "alpha3Code": "FRA",
         "region": "Europe",
-        "subregion": "Western Europe"
+        "subregion": "Western Europe",
+        "center": [
+          -3.9302327436698143,
+          41.59077318138069
+        ]
       }
     },
     {
@@ -41362,7 +41650,11 @@
         "alpha2Code": "FO",
         "alpha3Code": "FRO",
         "region": "Europe",
-        "subregion": "Northern Europe"
+        "subregion": "Northern Europe",
+        "center": [
+          -6.861003676753946,
+          62.17440656734577
+        ]
       }
     },
     {
@@ -41423,7 +41715,11 @@
         "alpha2Code": "FM",
         "alpha3Code": "FSM",
         "region": "Oceania",
-        "subregion": "Micronesia"
+        "subregion": "Micronesia",
+        "center": [
+          156.67641387898493,
+          7.082709082290092
+        ]
       }
     },
     {
@@ -41734,7 +42030,11 @@
         "alpha2Code": "GA",
         "alpha3Code": "GAB",
         "region": "Africa",
-        "subregion": "Middle Africa"
+        "subregion": "Middle Africa",
+        "center": [
+          11.78656495832176,
+          -0.5912236023210176
+        ]
       }
     },
     {
@@ -42671,7 +42971,11 @@
         "alpha2Code": "GB",
         "alpha3Code": "GBR",
         "region": "Europe",
-        "subregion": "Northern Europe"
+        "subregion": "Northern Europe",
+        "center": [
+          -2.7932036598394903,
+          53.992729222308654
+        ]
       }
     },
     {
@@ -43026,7 +43330,11 @@
         "alpha2Code": "GE",
         "alpha3Code": "GEO",
         "region": "Asia",
-        "subregion": "Western Asia"
+        "subregion": "Western Asia",
+        "center": [
+          43.51373796354577,
+          42.16798118151826
+        ]
       }
     },
     {
@@ -43245,7 +43553,11 @@
         "alpha2Code": "GH",
         "alpha3Code": "GHA",
         "region": "Africa",
-        "subregion": "Western Africa"
+        "subregion": "Western Africa",
+        "center": [
+          -1.218442373670739,
+          7.9536003601196725
+        ]
       }
     },
     {
@@ -43756,7 +44068,11 @@
         "alpha2Code": "GN",
         "alpha3Code": "GIN",
         "region": "Africa",
-        "subregion": "Western Africa"
+        "subregion": "Western Africa",
+        "center": [
+          -10.937845696637075,
+          10.430315934152835
+        ]
       }
     },
     {
@@ -43859,7 +44175,11 @@
         "alpha2Code": "GM",
         "alpha3Code": "GMB",
         "region": "Africa",
-        "subregion": "Western Africa"
+        "subregion": "Western Africa",
+        "center": [
+          -15.436097915524808,
+          13.445571431965917
+        ]
       }
     },
     {
@@ -44164,7 +44484,11 @@
         "alpha2Code": "GW",
         "alpha3Code": "GNB",
         "region": "Africa",
-        "subregion": "Western Africa"
+        "subregion": "Western Africa",
+        "center": [
+          -14.93416447722379,
+          12.061182260567852
+        ]
       }
     },
     {
@@ -44313,7 +44637,11 @@
         "alpha2Code": "GQ",
         "alpha3Code": "GNQ",
         "region": "Africa",
-        "subregion": "Middle Africa"
+        "subregion": "Middle Africa",
+        "center": [
+          10.346444332492437,
+          1.6988825030300219
+        ]
       }
     },
     {
@@ -45554,7 +45882,11 @@
         "alpha2Code": "GR",
         "alpha3Code": "GRC",
         "region": "Europe",
-        "subregion": "Southern Europe"
+        "subregion": "Southern Europe",
+        "center": [
+          22.90718437907532,
+          39.08272237135079
+        ]
       }
     },
     {
@@ -45589,7 +45921,11 @@
         "alpha2Code": "GD",
         "alpha3Code": "GRD",
         "region": "Americas",
-        "subregion": "Caribbean"
+        "subregion": "Caribbean",
+        "center": [
+          -61.679161699205565,
+          12.140365917243276
+        ]
       }
     },
     {
@@ -47554,7 +47890,11 @@
         "alpha2Code": "GL",
         "alpha3Code": "GRL",
         "region": "Americas",
-        "subregion": "Northern America"
+        "subregion": "Northern America",
+        "center": [
+          -41.26208547684693,
+          73.68745027458532
+        ]
       }
     },
     {
@@ -47781,7 +48121,11 @@
         "alpha2Code": "GT",
         "alpha3Code": "GTM",
         "region": "Americas",
-        "subregion": "Central America"
+        "subregion": "Central America",
+        "center": [
+          -90.35335820143267,
+          15.698660780469014
+        ]
       }
     },
     {
@@ -47820,7 +48164,11 @@
         "alpha2Code": "GU",
         "alpha3Code": "GUM",
         "region": "Oceania",
-        "subregion": "Micronesia"
+        "subregion": "Micronesia",
+        "center": [
+          144.7888649219286,
+          13.450506771206708
+        ]
       }
     },
     {
@@ -48219,7 +48567,11 @@
         "alpha2Code": "GY",
         "alpha3Code": "GUY",
         "region": "Americas",
-        "subregion": "South America"
+        "subregion": "South America",
+        "center": [
+          -58.98126436540272,
+          4.791557648344123
+        ]
       }
     },
     {
@@ -48258,7 +48610,11 @@
         "alpha2Code": "HM",
         "alpha3Code": "HMD",
         "region": "",
-        "subregion": ""
+        "subregion": "",
+        "center": [
+          73.51751572384455,
+          -53.09075478697511
+        ]
       }
     },
     {
@@ -48585,7 +48941,11 @@
         "alpha2Code": "HN",
         "alpha3Code": "HND",
         "region": "Americas",
-        "subregion": "Central America"
+        "subregion": "Central America",
+        "center": [
+          -86.60919996245627,
+          14.821542040632178
+        ]
       }
     },
     {
@@ -49034,7 +49394,11 @@
         "alpha2Code": "HR",
         "alpha3Code": "HRV",
         "region": "Europe",
-        "subregion": "Southern Europe"
+        "subregion": "Southern Europe",
+        "center": [
+          16.46585138321232,
+          45.096147373561
+        ]
       }
     },
     {
@@ -49231,7 +49595,11 @@
         "alpha2Code": "HT",
         "alpha3Code": "HTI",
         "region": "Americas",
-        "subregion": "Caribbean"
+        "subregion": "Caribbean",
+        "center": [
+          -72.6852384146952,
+          18.911378590892213
+        ]
       }
     },
     {
@@ -49434,7 +49802,11 @@
         "alpha2Code": "HU",
         "alpha3Code": "HUN",
         "region": "Europe",
-        "subregion": "Eastern Europe"
+        "subregion": "Eastern Europe",
+        "center": [
+          19.394144117259533,
+          47.163026524077715
+        ]
       }
     },
     {
@@ -54039,7 +54411,11 @@
         "alpha2Code": "ID",
         "alpha3Code": "IDN",
         "region": "Asia",
-        "subregion": "South-Eastern Asia"
+        "subregion": "South-Eastern Asia",
+        "center": [
+          117.11074241798504,
+          -2.206079151006454
+        ]
       }
     },
     {
@@ -54074,7 +54450,11 @@
         "alpha2Code": "IM",
         "alpha3Code": "IMN",
         "region": "Europe",
-        "subregion": "Northern Europe"
+        "subregion": "Northern Europe",
+        "center": [
+          -4.540816977687086,
+          54.22180311169837
+        ]
       }
     },
     {
@@ -56063,7 +56443,11 @@
         "alpha2Code": "IN",
         "alpha3Code": "IND",
         "region": "Asia",
-        "subregion": "Southern Asia"
+        "subregion": "Southern Asia",
+        "center": [
+          79.21554395329511,
+          22.31910536767734
+        ]
       }
     },
     {
@@ -56106,7 +56490,11 @@
         "alpha2Code": "IO",
         "alpha3Code": "IOT",
         "region": "Africa",
-        "subregion": "Eastern Africa"
+        "subregion": "Eastern Africa",
+        "center": [
+          72.4397858970807,
+          -7.351346494032313
+        ]
       }
     },
     {
@@ -56387,7 +56775,11 @@
         "alpha2Code": "IE",
         "alpha3Code": "IRL",
         "region": "Europe",
-        "subregion": "Northern Europe"
+        "subregion": "Northern Europe",
+        "center": [
+          -8.138496682942003,
+          53.16819196842405
+        ]
       }
     },
     {
@@ -57252,7 +57644,11 @@
         "alpha2Code": "IR",
         "alpha3Code": "IRN",
         "region": "Asia",
-        "subregion": "Southern Asia"
+        "subregion": "Southern Asia",
+        "center": [
+          54.288886584844306,
+          32.5265022040585
+        ]
       }
     },
     {
@@ -57675,7 +58071,11 @@
         "alpha2Code": "IQ",
         "alpha3Code": "IRQ",
         "region": "Asia",
-        "subregion": "Western Asia"
+        "subregion": "Western Asia",
+        "center": [
+          43.747929847081295,
+          33.01832691142205
+        ]
       }
     },
     {
@@ -58038,7 +58438,11 @@
         "alpha2Code": "IS",
         "alpha3Code": "ISL",
         "region": "Europe",
-        "subregion": "Northern Europe"
+        "subregion": "Northern Europe",
+        "center": [
+          -18.545903175584826,
+          64.9807556588115
+        ]
       }
     },
     {
@@ -58205,7 +58609,11 @@
         "alpha2Code": "IL",
         "alpha3Code": "ISR",
         "region": "Asia",
-        "subregion": "Western Asia"
+        "subregion": "Western Asia",
+        "center": [
+          34.998275300373415,
+          31.449330448991883
+        ]
       }
     },
     {
@@ -59014,7 +59422,11 @@
         "alpha2Code": "IT",
         "alpha3Code": "ITA",
         "region": "Europe",
-        "subregion": "Southern Europe"
+        "subregion": "Southern Europe",
+        "center": [
+          12.122730219140918,
+          42.74021357271051
+        ]
       }
     },
     {
@@ -59093,7 +59505,11 @@
         "alpha2Code": "JM",
         "alpha3Code": "JAM",
         "region": "Americas",
-        "subregion": "Caribbean"
+        "subregion": "Caribbean",
+        "center": [
+          -77.3157809881891,
+          18.156256581529917
+        ]
       }
     },
     {
@@ -59128,7 +59544,11 @@
         "alpha2Code": "JE",
         "alpha3Code": "JEY",
         "region": "Europe",
-        "subregion": "Northern Europe"
+        "subregion": "Northern Europe",
+        "center": [
+          -2.158337113022649,
+          49.224655216461834
+        ]
       }
     },
     {
@@ -59295,7 +59715,11 @@
         "alpha2Code": "JO",
         "alpha3Code": "JOR",
         "region": "Asia",
-        "subregion": "Western Asia"
+        "subregion": "Western Asia",
+        "center": [
+          36.754284913619216,
+          31.23764294206899
+        ]
       }
     },
     {
@@ -60652,7 +61076,11 @@
         "alpha2Code": "JP",
         "alpha3Code": "JPN",
         "region": "Asia",
-        "subregion": "Eastern Asia"
+        "subregion": "Eastern Asia",
+        "center": [
+          137.79548031102132,
+          37.51334660434788
+        ]
       }
     },
     {
@@ -60730,7 +61158,11 @@
         "alpha2Code": "undefined",
         "alpha3Code": "undefined",
         "region": "Asia",
-        "subregion": "Central Asia"
+        "subregion": "Central Asia",
+        "center": [
+          77.18005663895026,
+          35.392300667701406
+        ]
       }
     },
     {
@@ -61623,7 +62055,11 @@
         "alpha2Code": "KZ",
         "alpha3Code": "KAZ",
         "region": "Asia",
-        "subregion": "Central Asia"
+        "subregion": "Central Asia",
+        "center": [
+          67.20336960706237,
+          48.04952949495418
+        ]
       }
     },
     {
@@ -61934,7 +62370,11 @@
         "alpha2Code": "KE",
         "alpha3Code": "KEN",
         "region": "Africa",
-        "subregion": "Eastern Africa"
+        "subregion": "Eastern Africa",
+        "center": [
+          37.78061366002009,
+          0.5988276962656128
+        ]
       }
     },
     {
@@ -62697,7 +63137,11 @@
         "alpha2Code": "KG",
         "alpha3Code": "KGZ",
         "region": "Asia",
-        "subregion": "Central Asia"
+        "subregion": "Central Asia",
+        "center": [
+          74.53631244537365,
+          41.455694219878225
+        ]
       }
     },
     {
@@ -63048,7 +63492,11 @@
         "alpha2Code": "KH",
         "alpha3Code": "KHM",
         "region": "Asia",
-        "subregion": "South-Eastern Asia"
+        "subregion": "South-Eastern Asia",
+        "center": [
+          104.9034806347501,
+          12.717121509251518
+        ]
       }
     },
     {
@@ -63121,7 +63569,11 @@
         "alpha2Code": "KI",
         "alpha3Code": "KIR",
         "region": "Oceania",
-        "subregion": "Micronesia"
+        "subregion": "Micronesia",
+        "center": [
+          -157.89656773848927,
+          2.4271159305490526
+        ]
       }
     },
     {
@@ -63442,7 +63894,11 @@
         "alpha2Code": "KR",
         "alpha3Code": "KOR",
         "region": "Asia",
-        "subregion": "Eastern Asia"
+        "subregion": "Eastern Asia",
+        "center": [
+          127.83489701342337,
+          36.39252130434867
+        ]
       }
     },
     {
@@ -63559,7 +64015,11 @@
         "alpha2Code": "KW",
         "alpha3Code": "KWT",
         "region": "Asia",
-        "subregion": "Western Asia"
+        "subregion": "Western Asia",
+        "center": [
+          47.59091743814142,
+          29.324863175319916
+        ]
       }
     },
     {
@@ -64582,7 +65042,11 @@
         "alpha2Code": "LA",
         "alpha3Code": "LAO",
         "region": "Asia",
-        "subregion": "South-Eastern Asia"
+        "subregion": "South-Eastern Asia",
+        "center": [
+          103.72272484255276,
+          18.50073168692042
+        ]
       }
     },
     {
@@ -64657,7 +65121,11 @@
         "alpha2Code": "LB",
         "alpha3Code": "LBN",
         "region": "Asia",
-        "subregion": "Western Asia"
+        "subregion": "Western Asia",
+        "center": [
+          35.86133821568016,
+          33.91007146555808
+        ]
       }
     },
     {
@@ -64828,7 +65296,11 @@
         "alpha2Code": "LR",
         "alpha3Code": "LBR",
         "region": "Africa",
-        "subregion": "Western Africa"
+        "subregion": "Western Africa",
+        "center": [
+          -9.323728121356496,
+          6.45141914609131
+        ]
       }
     },
     {
@@ -65135,7 +65607,11 @@
         "alpha2Code": "LY",
         "alpha3Code": "LBY",
         "region": "Africa",
-        "subregion": "Northern Africa"
+        "subregion": "Northern Africa",
+        "center": [
+          18.010251641693998,
+          27.009574060978878
+        ]
       }
     },
     {
@@ -65174,7 +65650,11 @@
         "alpha2Code": "LC",
         "alpha3Code": "LCA",
         "region": "Americas",
-        "subregion": "Caribbean"
+        "subregion": "Caribbean",
+        "center": [
+          -60.96319603093025,
+          13.888672917129059
+        ]
       }
     },
     {
@@ -65303,7 +65783,11 @@
         "alpha2Code": "LK",
         "alpha3Code": "LKA",
         "region": "Asia",
-        "subregion": "Southern Asia"
+        "subregion": "Southern Asia",
+        "center": [
+          80.68239581780048,
+          7.629586944521548
+        ]
       }
     },
     {
@@ -65414,7 +65898,11 @@
         "alpha2Code": "LS",
         "alpha3Code": "LSO",
         "region": "Africa",
-        "subregion": "Southern Africa"
+        "subregion": "Southern Africa",
+        "center": [
+          28.22947277122474,
+          -29.57526665186133
+        ]
       }
     },
     {
@@ -65767,7 +66255,11 @@
         "alpha2Code": "LT",
         "alpha3Code": "LTU",
         "region": "Europe",
-        "subregion": "Northern Europe"
+        "subregion": "Northern Europe",
+        "center": [
+          23.89543015184209,
+          55.32179976195831
+        ]
       }
     },
     {
@@ -65886,7 +66378,11 @@
         "alpha2Code": "LU",
         "alpha3Code": "LUX",
         "region": "Europe",
-        "subregion": "Western Europe"
+        "subregion": "Western Europe",
+        "center": [
+          6.068530956493098,
+          49.76086443996079
+        ]
       }
     },
     {
@@ -66113,7 +66609,11 @@
         "alpha2Code": "LV",
         "alpha3Code": "LVA",
         "region": "Europe",
-        "subregion": "Northern Europe"
+        "subregion": "Northern Europe",
+        "center": [
+          24.923093120938496,
+          56.846247487142946
+        ]
       }
     },
     {
@@ -66336,7 +66836,11 @@
         "alpha2Code": "MD",
         "alpha3Code": "MDA",
         "region": "Europe",
-        "subregion": "Eastern Europe"
+        "subregion": "Eastern Europe",
+        "center": [
+          28.455407492488632,
+          47.17809463318409
+        ]
       }
     },
     {
@@ -66657,7 +67161,11 @@
         "alpha2Code": "MG",
         "alpha3Code": "MDG",
         "region": "Africa",
-        "subregion": "Eastern Africa"
+        "subregion": "Eastern Africa",
+        "center": [
+          46.68741450842581,
+          -19.35975126510586
+        ]
       }
     },
     {
@@ -67802,7 +68310,11 @@
         "alpha2Code": "MX",
         "alpha3Code": "MEX",
         "region": "Americas",
-        "subregion": "Central America"
+        "subregion": "Central America",
+        "center": [
+          -102.28457638059868,
+          23.897290057353462
+        ]
       }
     },
     {
@@ -67925,7 +68437,11 @@
         "alpha2Code": "MK",
         "alpha3Code": "MKD",
         "region": "Europe",
-        "subregion": "Southern Europe"
+        "subregion": "Southern Europe",
+        "center": [
+          21.692586932087888,
+          41.59138190748674
+        ]
       }
     },
     {
@@ -68456,7 +68972,11 @@
         "alpha2Code": "ML",
         "alpha3Code": "MLI",
         "region": "Africa",
-        "subregion": "Western Africa"
+        "subregion": "Western Africa",
+        "center": [
+          -3.551696403961839,
+          17.333666876228296
+        ]
       }
     },
     {
@@ -68491,7 +69011,11 @@
         "alpha2Code": "MT",
         "alpha3Code": "MLT",
         "region": "Europe",
-        "subregion": "Southern Europe"
+        "subregion": "Southern Europe",
+        "center": [
+          14.451313376796925,
+          35.88427518491983
+        ]
       }
     },
     {
@@ -69576,7 +70100,11 @@
         "alpha2Code": "MM",
         "alpha3Code": "MMR",
         "region": "Asia",
-        "subregion": "South-Eastern Asia"
+        "subregion": "South-Eastern Asia",
+        "center": [
+          96.42477214046863,
+          21.1980511418507
+        ]
       }
     },
     {
@@ -69727,7 +70255,11 @@
         "alpha2Code": "ME",
         "alpha3Code": "MNE",
         "region": "Europe",
-        "subregion": "Southern Europe"
+        "subregion": "Southern Europe",
+        "center": [
+          19.22225517749618,
+          42.78787611592451
+        ]
       }
     },
     {
@@ -71002,7 +71534,11 @@
         "alpha2Code": "MN",
         "alpha3Code": "MNG",
         "region": "Asia",
-        "subregion": "Eastern Asia"
+        "subregion": "Eastern Asia",
+        "center": [
+          103.04694873863691,
+          46.770515060240385
+        ]
       }
     },
     {
@@ -71037,7 +71573,11 @@
         "alpha2Code": "MP",
         "alpha3Code": "MNP",
         "region": "Oceania",
-        "subregion": "Micronesia"
+        "subregion": "Micronesia",
+        "center": [
+          145.7623143614125,
+          15.204606690517183
+        ]
       }
     },
     {
@@ -71608,7 +72148,11 @@
         "alpha2Code": "MZ",
         "alpha3Code": "MOZ",
         "region": "Africa",
-        "subregion": "Eastern Africa"
+        "subregion": "Eastern Africa",
+        "center": [
+          35.51688881325101,
+          -17.266514658805985
+        ]
       }
     },
     {
@@ -72045,7 +72589,11 @@
         "alpha2Code": "MR",
         "alpha3Code": "MRT",
         "region": "Africa",
-        "subregion": "Western Africa"
+        "subregion": "Western Africa",
+        "center": [
+          -10.357659493005132,
+          20.24056454222795
+        ]
       }
     },
     {
@@ -72080,7 +72628,11 @@
         "alpha2Code": "MS",
         "alpha3Code": "MSR",
         "region": "Americas",
-        "subregion": "Caribbean"
+        "subregion": "Caribbean",
+        "center": [
+          -62.187136850669845,
+          16.74807979152368
+        ]
       }
     },
     {
@@ -72123,7 +72675,11 @@
         "alpha2Code": "MU",
         "alpha3Code": "MUS",
         "region": "Africa",
-        "subregion": "Eastern Africa"
+        "subregion": "Eastern Africa",
+        "center": [
+          57.56989402873609,
+          -20.268365143406513
+        ]
       }
     },
     {
@@ -72438,7 +72994,11 @@
         "alpha2Code": "MW",
         "alpha3Code": "MWI",
         "region": "Africa",
-        "subregion": "Eastern Africa"
+        "subregion": "Eastern Africa",
+        "center": [
+          34.27999517583704,
+          -13.220256136461035
+        ]
       }
     },
     {
@@ -73043,7 +73603,11 @@
         "alpha2Code": "MY",
         "alpha3Code": "MYS",
         "region": "Asia",
-        "subregion": "South-Eastern Asia"
+        "subregion": "South-Eastern Asia",
+        "center": [
+          109.71062192246204,
+          3.7836572841195935
+        ]
       }
     },
     {
@@ -73318,7 +73882,11 @@
         "alpha2Code": "NA",
         "alpha3Code": "NAM",
         "region": "Africa",
-        "subregion": "Southern Africa"
+        "subregion": "Southern Africa",
+        "center": [
+          17.205486209773554,
+          -22.110568708021773
+        ]
       }
     },
     {
@@ -73471,7 +74039,11 @@
         "alpha2Code": "NC",
         "alpha3Code": "NCL",
         "region": "Oceania",
-        "subregion": "Melanesia"
+        "subregion": "Melanesia",
+        "center": [
+          165.6674073526586,
+          -21.30890836014706
+        ]
       }
     },
     {
@@ -73778,7 +74350,11 @@
         "alpha2Code": "NE",
         "alpha3Code": "NER",
         "region": "Africa",
-        "subregion": "Western Africa"
+        "subregion": "Western Africa",
+        "center": [
+          9.36695881399715,
+          17.408019284579332
+        ]
       }
     },
     {
@@ -74395,7 +74971,11 @@
         "alpha2Code": "NG",
         "alpha3Code": "NGA",
         "region": "Africa",
-        "subregion": "Western Africa"
+        "subregion": "Western Africa",
+        "center": [
+          8.082720139269915,
+          9.592119522814887
+        ]
       }
     },
     {
@@ -74674,7 +75254,11 @@
         "alpha2Code": "NI",
         "alpha3Code": "NIC",
         "region": "Americas",
-        "subregion": "Central America"
+        "subregion": "Central America",
+        "center": [
+          -85.03152348520828,
+          12.836084521185944
+        ]
       }
     },
     {
@@ -74709,7 +75293,11 @@
         "alpha2Code": "NU",
         "alpha3Code": "NIU",
         "region": "Oceania",
-        "subregion": "Polynesia"
+        "subregion": "Polynesia",
+        "center": [
+          -169.8619051779888,
+          -19.040625564449183
+        ]
       }
     },
     {
@@ -74962,7 +75550,11 @@
         "alpha2Code": "NL",
         "alpha3Code": "NLD",
         "region": "Europe",
-        "subregion": "Western Europe"
+        "subregion": "Western Europe",
+        "center": [
+          5.307668552369679,
+          52.12499302315969
+        ]
       }
     },
     {
@@ -76815,7 +77407,11 @@
         "alpha2Code": "NO",
         "alpha3Code": "NOR",
         "region": "Europe",
-        "subregion": "Northern Europe"
+        "subregion": "Northern Europe",
+        "center": [
+          14.385863894092452,
+          67.30813905660773
+        ]
       }
     },
     {
@@ -77318,7 +77914,11 @@
         "alpha2Code": "NP",
         "alpha3Code": "NPL",
         "region": "Asia",
-        "subregion": "Southern Asia"
+        "subregion": "Southern Asia",
+        "center": [
+          83.92716683064147,
+          28.246107142039175
+        ]
       }
     },
     {
@@ -78151,7 +78751,11 @@
         "alpha2Code": "NZ",
         "alpha3Code": "NZL",
         "region": "Oceania",
-        "subregion": "Australia and New Zealand"
+        "subregion": "Australia and New Zealand",
+        "center": [
+          171.51523815391582,
+          -41.70968678007186
+        ]
       }
     },
     {
@@ -78384,7 +78988,11 @@
         "alpha2Code": "OM",
         "alpha3Code": "OMN",
         "region": "Asia",
-        "subregion": "Western Asia"
+        "subregion": "Western Asia",
+        "center": [
+          56.081529042617134,
+          20.60009339414444
+        ]
       }
     },
     {
@@ -79187,7 +79795,11 @@
         "alpha2Code": "PK",
         "alpha3Code": "PAK",
         "region": "Asia",
-        "subregion": "Southern Asia"
+        "subregion": "Southern Asia",
+        "center": [
+          68.64005602687902,
+          29.240516001116973
+        ]
       }
     },
     {
@@ -79516,7 +80128,11 @@
         "alpha2Code": "PA",
         "alpha3Code": "PAN",
         "region": "Americas",
-        "subregion": "Central America"
+        "subregion": "Central America",
+        "center": [
+          -80.15811923997752,
+          8.524978572274216
+        ]
       }
     },
     {
@@ -80499,7 +81115,11 @@
         "alpha2Code": "PE",
         "alpha3Code": "PER",
         "region": "Americas",
-        "subregion": "South America"
+        "subregion": "South America",
+        "center": [
+          -74.32823484159661,
+          -9.144410789616643
+        ]
       }
     },
     {
@@ -81976,7 +82596,11 @@
         "alpha2Code": "PH",
         "alpha3Code": "PHL",
         "region": "Asia",
-        "subregion": "South-Eastern Asia"
+        "subregion": "South-Eastern Asia",
+        "center": [
+          122.80072457027062,
+          11.808596904392896
+        ]
       }
     },
     {
@@ -82011,7 +82635,11 @@
         "alpha2Code": "PW",
         "alpha3Code": "PLW",
         "region": "Oceania",
-        "subregion": "Micronesia"
+        "subregion": "Micronesia",
+        "center": [
+          134.58731753131914,
+          7.539975830377846
+        ]
       }
     },
     {
@@ -82896,7 +83524,11 @@
         "alpha2Code": "PG",
         "alpha3Code": "PNG",
         "region": "Oceania",
-        "subregion": "Melanesia"
+        "subregion": "Melanesia",
+        "center": [
+          145.14792365290617,
+          -6.465987099781498
+        ]
       }
     },
     {
@@ -83315,7 +83947,11 @@
         "alpha2Code": "PL",
         "alpha3Code": "POL",
         "region": "Europe",
-        "subregion": "Eastern Europe"
+        "subregion": "Eastern Europe",
+        "center": [
+          19.398560888361324,
+          52.096599972187065
+        ]
       }
     },
     {
@@ -83388,7 +84024,11 @@
         "alpha2Code": "PR",
         "alpha3Code": "PRI",
         "region": "Americas",
-        "subregion": "Caribbean"
+        "subregion": "Caribbean",
+        "center": [
+          -66.49010474298096,
+          18.229216979183096
+        ]
       }
     },
     {
@@ -83587,7 +84227,11 @@
         "alpha2Code": "KP",
         "alpha3Code": "PRK",
         "region": "Asia",
-        "subregion": "Eastern Asia"
+        "subregion": "Eastern Asia",
+        "center": [
+          127.17952406521911,
+          40.140134671402244
+        ]
       }
     },
     {
@@ -83912,7 +84556,11 @@
         "alpha2Code": "PT",
         "alpha3Code": "PRT",
         "region": "Europe",
-        "subregion": "Southern Europe"
+        "subregion": "Southern Europe",
+        "center": [
+          -8.267253484399104,
+          39.57598885343303
+        ]
       }
     },
     {
@@ -84275,7 +84923,11 @@
         "alpha2Code": "PY",
         "alpha3Code": "PRY",
         "region": "Americas",
-        "subregion": "South America"
+        "subregion": "South America",
+        "center": [
+          -58.39909341906312,
+          -23.217145877908393
+        ]
       }
     },
     {
@@ -84416,7 +85068,11 @@
         "alpha2Code": "PS",
         "alpha3Code": "PSE",
         "region": "Asia",
-        "subregion": "Western Asia"
+        "subregion": "Western Asia",
+        "center": [
+          35.1822049722566,
+          31.926280417506316
+        ]
       }
     },
     {
@@ -84553,7 +85209,11 @@
         "alpha2Code": "PF",
         "alpha3Code": "PYF",
         "region": "Oceania",
-        "subregion": "Polynesia"
+        "subregion": "Polynesia",
+        "center": [
+          -145.541312476221,
+          -14.545695233703938
+        ]
       }
     },
     {
@@ -84644,7 +85304,11 @@
         "alpha2Code": "QA",
         "alpha3Code": "QAT",
         "region": "Asia",
-        "subregion": "Western Asia"
+        "subregion": "Western Asia",
+        "center": [
+          51.18065497676663,
+          25.306248901815454
+        ]
       }
     },
     {
@@ -85015,7 +85679,11 @@
         "alpha2Code": "RO",
         "alpha3Code": "ROU",
         "region": "Europe",
-        "subregion": "Eastern Europe"
+        "subregion": "Eastern Europe",
+        "center": [
+          24.967631408978338,
+          45.837917680568154
+        ]
       }
     },
     {
@@ -92584,7 +93252,11 @@
         "alpha2Code": "RU",
         "alpha3Code": "RUS",
         "region": "Europe",
-        "subregion": "Eastern Europe"
+        "subregion": "Eastern Europe",
+        "center": [
+          95.40428198642695,
+          60.98792070655954
+        ]
       }
     },
     {
@@ -92743,7 +93415,11 @@
         "alpha2Code": "RW",
         "alpha3Code": "RWA",
         "region": "Africa",
-        "subregion": "Eastern Africa"
+        "subregion": "Eastern Africa",
+        "center": [
+          29.927926907239026,
+          -1.9893626666847057
+        ]
       }
     },
     {
@@ -93208,7 +93884,11 @@
         "alpha2Code": "SA",
         "alpha3Code": "SAU",
         "region": "Asia",
-        "subregion": "Western Asia"
+        "subregion": "Western Asia",
+        "center": [
+          44.540393046964944,
+          24.094829942981917
+        ]
       }
     },
     {
@@ -93651,7 +94331,11 @@
         "alpha2Code": "SD",
         "alpha3Code": "SDN",
         "region": "Africa",
-        "subregion": "Northern Africa"
+        "subregion": "Northern Africa",
+        "center": [
+          29.917899317351743,
+          15.975102202275858
+        ]
       }
     },
     {
@@ -93978,7 +94662,11 @@
         "alpha2Code": "SS",
         "alpha3Code": "SSD",
         "region": "Africa",
-        "subregion": "Middle Africa"
+        "subregion": "Middle Africa",
+        "center": [
+          30.231914668819073,
+          7.303589022310225
+        ]
       }
     },
     {
@@ -94273,7 +94961,11 @@
         "alpha2Code": "SN",
         "alpha3Code": "SEN",
         "region": "Africa",
-        "subregion": "Western Africa"
+        "subregion": "Western Africa",
+        "center": [
+          -14.471899881180743,
+          14.359306562578116
+        ]
       }
     },
     {
@@ -94308,7 +95000,11 @@
         "alpha2Code": "SG",
         "alpha3Code": "SGP",
         "region": "Asia",
-        "subregion": "South-Eastern Asia"
+        "subregion": "South-Eastern Asia",
+        "center": [
+          103.8126151317963,
+          1.3680176370650476
+        ]
       }
     },
     {
@@ -94371,7 +95067,11 @@
         "alpha2Code": "GS",
         "alpha3Code": "SGS",
         "region": "Americas",
-        "subregion": "South America"
+        "subregion": "South America",
+        "center": [
+          -36.63520736865259,
+          -54.38603995411156
+        ]
       }
     },
     {
@@ -94406,7 +95106,11 @@
         "alpha2Code": "SH",
         "alpha3Code": "SHN",
         "region": "Africa",
-        "subregion": "Western Africa"
+        "subregion": "Western Africa",
+        "center": [
+          -5.7275048810263,
+          -15.969303763839616
+        ]
       }
     },
     {
@@ -94871,7 +95575,11 @@
         "alpha2Code": "SB",
         "alpha3Code": "SLB",
         "region": "Oceania",
-        "subregion": "Melanesia"
+        "subregion": "Melanesia",
+        "center": [
+          159.63471023832702,
+          -8.89300624024534
+        ]
       }
     },
     {
@@ -95120,7 +95828,11 @@
         "alpha2Code": "SL",
         "alpha3Code": "SLE",
         "region": "Africa",
-        "subregion": "Western Africa"
+        "subregion": "Western Africa",
+        "center": [
+          -11.78624384237708,
+          8.552508707832608
+        ]
       }
     },
     {
@@ -95239,7 +95951,11 @@
         "alpha2Code": "SV",
         "alpha3Code": "SLV",
         "region": "Americas",
-        "subregion": "Central America"
+        "subregion": "Central America",
+        "center": [
+          -88.88977346756616,
+          13.747205047600438
+        ]
       }
     },
     {
@@ -95274,7 +95990,11 @@
         "alpha2Code": "PM",
         "alpha3Code": "SPM",
         "region": "Americas",
-        "subregion": "Northern America"
+        "subregion": "Northern America",
+        "center": [
+          -56.338755516504655,
+          46.91893160635563
+        ]
       }
     },
     {
@@ -95339,7 +96059,11 @@
         "alpha2Code": "ST",
         "alpha3Code": "STP",
         "region": "Africa",
-        "subregion": "Middle Africa"
+        "subregion": "Middle Africa",
+        "center": [
+          6.6906851561457685,
+          0.3672222522485314
+        ]
       }
     },
     {
@@ -95626,7 +96350,11 @@
         "alpha2Code": "SR",
         "alpha3Code": "SUR",
         "region": "Americas",
-        "subregion": "South America"
+        "subregion": "South America",
+        "center": [
+          -55.906565153340416,
+          4.122903031519829
+        ]
       }
     },
     {
@@ -95785,7 +96513,11 @@
         "alpha2Code": "SK",
         "alpha3Code": "SVK",
         "region": "Europe",
-        "subregion": "Eastern Europe"
+        "subregion": "Eastern Europe",
+        "center": [
+          19.4669077479044,
+          48.7017280922516
+        ]
       }
     },
     {
@@ -96012,7 +96744,11 @@
         "alpha2Code": "SI",
         "alpha3Code": "SVN",
         "region": "Europe",
-        "subregion": "Southern Europe"
+        "subregion": "Southern Europe",
+        "center": [
+          14.794085953357222,
+          46.10766217321156
+        ]
       }
     },
     {
@@ -96525,7 +97261,11 @@
         "alpha2Code": "SE",
         "alpha3Code": "SWE",
         "region": "Europe",
-        "subregion": "Northern Europe"
+        "subregion": "Northern Europe",
+        "center": [
+          16.559302027314583,
+          62.54964660179109
+        ]
       }
     },
     {
@@ -96648,7 +97388,11 @@
         "alpha2Code": "SZ",
         "alpha3Code": "SWZ",
         "region": "Africa",
-        "subregion": "Southern Africa"
+        "subregion": "Southern Africa",
+        "center": [
+          31.482754026375716,
+          -26.553084780158013
+        ]
       }
     },
     {
@@ -96687,7 +97431,11 @@
         "alpha2Code": "SC",
         "alpha3Code": "SYC",
         "region": "Africa",
-        "subregion": "Eastern Africa"
+        "subregion": "Eastern Africa",
+        "center": [
+          55.474509119367674,
+          -4.6585867871610995
+        ]
       }
     },
     {
@@ -96958,7 +97706,11 @@
         "alpha2Code": "SY",
         "alpha3Code": "SYR",
         "region": "Asia",
-        "subregion": "Western Asia"
+        "subregion": "Western Asia",
+        "center": [
+          38.518587735253014,
+          35.01903345288935
+        ]
       }
     },
     {
@@ -96993,7 +97745,11 @@
         "alpha2Code": "TC",
         "alpha3Code": "TCA",
         "region": "Americas",
-        "subregion": "Caribbean"
+        "subregion": "Caribbean",
+        "center": [
+          -72.27085941406831,
+          21.80070014740647
+        ]
       }
     },
     {
@@ -97260,7 +98016,11 @@
         "alpha2Code": "TD",
         "alpha3Code": "TCD",
         "region": "Africa",
-        "subregion": "Middle Africa"
+        "subregion": "Middle Africa",
+        "center": [
+          18.62956302614342,
+          15.318884495379661
+        ]
       }
     },
     {
@@ -97387,7 +98147,11 @@
         "alpha2Code": "TG",
         "alpha3Code": "TGO",
         "region": "Africa",
-        "subregion": "Western Africa"
+        "subregion": "Western Africa",
+        "center": [
+          0.9650536639411241,
+          8.51208955764246
+        ]
       }
     },
     {
@@ -98188,7 +98952,11 @@
         "alpha2Code": "TH",
         "alpha3Code": "THA",
         "region": "Asia",
-        "subregion": "South-Eastern Asia"
+        "subregion": "South-Eastern Asia",
+        "center": [
+          100.95470854788039,
+          15.104162413492327
+        ]
       }
     },
     {
@@ -98789,7 +99557,11 @@
         "alpha2Code": "TJ",
         "alpha3Code": "TJK",
         "region": "Asia",
-        "subregion": "Central Asia"
+        "subregion": "Central Asia",
+        "center": [
+          71.00461128714186,
+          38.52988884466836
+        ]
       }
     },
     {
@@ -99228,7 +100000,11 @@
         "alpha2Code": "TM",
         "alpha3Code": "TKM",
         "region": "Asia",
-        "subregion": "Central Asia"
+        "subregion": "Central Asia",
+        "center": [
+          59.39609903479419,
+          39.09282822537039
+        ]
       }
     },
     {
@@ -99345,7 +100121,11 @@
         "alpha2Code": "TL",
         "alpha3Code": "TLS",
         "region": "Asia",
-        "subregion": "South-Eastern Asia"
+        "subregion": "South-Eastern Asia",
+        "center": [
+          125.85968994219317,
+          -8.826246519646384
+        ]
       }
     },
     {
@@ -99406,7 +100186,11 @@
         "alpha2Code": "TO",
         "alpha3Code": "TON",
         "region": "Oceania",
-        "subregion": "Polynesia"
+        "subregion": "Polynesia",
+        "center": [
+          -174.89347093564217,
+          -20.556569349790987
+        ]
       }
     },
     {
@@ -99457,7 +100241,11 @@
         "alpha2Code": "TT",
         "alpha3Code": "TTO",
         "region": "Americas",
-        "subregion": "Caribbean"
+        "subregion": "Caribbean",
+        "center": [
+          -61.29383931329188,
+          10.432111747731293
+        ]
       }
     },
     {
@@ -99770,7 +100558,11 @@
         "alpha2Code": "TN",
         "alpha3Code": "TUN",
         "region": "Africa",
-        "subregion": "Northern Africa"
+        "subregion": "Northern Africa",
+        "center": [
+          9.556828864400869,
+          34.10513323357508
+        ]
       }
     },
     {
@@ -100647,7 +101439,11 @@
         "alpha2Code": "TR",
         "alpha3Code": "TUR",
         "region": "Asia",
-        "subregion": "Western Asia"
+        "subregion": "Western Asia",
+        "center": [
+          35.167679010384646,
+          39.050418550581604
+        ]
       }
     },
     {
@@ -101232,7 +102028,11 @@
         "alpha2Code": "TZ",
         "alpha3Code": "TZA",
         "region": "Africa",
-        "subregion": "Eastern Africa"
+        "subregion": "Eastern Africa",
+        "center": [
+          34.79404171453514,
+          -6.2755455751185725
+        ]
       }
     },
     {
@@ -101479,7 +102279,11 @@
         "alpha2Code": "UG",
         "alpha3Code": "UGA",
         "region": "Africa",
-        "subregion": "Eastern Africa"
+        "subregion": "Eastern Africa",
+        "center": [
+          32.36892963432552,
+          1.2831235944250385
+        ]
       }
     },
     {
@@ -102340,7 +103144,11 @@
         "alpha2Code": "UA",
         "alpha3Code": "UKR",
         "region": "Europe",
-        "subregion": "Eastern Europe"
+        "subregion": "Eastern Europe",
+        "center": [
+          31.414106742721128,
+          48.965122202478
+        ]
       }
     },
     {
@@ -102635,7 +103443,11 @@
         "alpha2Code": "UY",
         "alpha3Code": "URY",
         "region": "Americas",
-        "subregion": "South America"
+        "subregion": "South America",
+        "center": [
+          -56.01493044978169,
+          -32.792636931252694
+        ]
       }
     },
     {
@@ -108260,7 +109072,11 @@
         "alpha2Code": "US",
         "alpha3Code": "USA",
         "region": "Americas",
-        "subregion": "Northern America"
+        "subregion": "Northern America",
+        "center": [
+          -107.58309485875562,
+          44.05821435736642
+        ]
       }
     },
     {
@@ -108837,7 +109653,11 @@
         "alpha2Code": "UZ",
         "alpha3Code": "UZB",
         "region": "Asia",
-        "subregion": "Central Asia"
+        "subregion": "Central Asia",
+        "center": [
+          63.179119123904655,
+          41.73216717114037
+        ]
       }
     },
     {
@@ -108872,7 +109692,11 @@
         "alpha2Code": "VC",
         "alpha3Code": "VCT",
         "region": "Americas",
-        "subregion": "Caribbean"
+        "subregion": "Caribbean",
+        "center": [
+          -61.19395823061989,
+          13.268181520212703
+        ]
       }
     },
     {
@@ -109557,7 +110381,11 @@
         "alpha2Code": "VE",
         "alpha3Code": "VEN",
         "region": "Americas",
-        "subregion": "South America"
+        "subregion": "South America",
+        "center": [
+          -66.15896796331093,
+          7.117640768674574
+        ]
       }
     },
     {
@@ -109592,7 +110420,11 @@
         "alpha2Code": "VI",
         "alpha3Code": "VIR",
         "region": "Americas",
-        "subregion": "Caribbean"
+        "subregion": "Caribbean",
+        "center": [
+          -64.74506721634353,
+          17.748747030026117
+        ]
       }
     },
     {
@@ -110437,7 +111269,11 @@
         "alpha2Code": "VN",
         "alpha3Code": "VNM",
         "region": "Asia",
-        "subregion": "South-Eastern Asia"
+        "subregion": "South-Eastern Asia",
+        "center": [
+          106.21173466634646,
+          16.63719605666394
+        ]
       }
     },
     {
@@ -110710,7 +111546,11 @@
         "alpha2Code": "VU",
         "alpha3Code": "VUT",
         "region": "Oceania",
-        "subregion": "Melanesia"
+        "subregion": "Melanesia",
+        "center": [
+          167.54956238048072,
+          -16.207342245795584
+        ]
       }
     },
     {
@@ -110779,7 +111619,11 @@
         "alpha2Code": "WS",
         "alpha3Code": "WSM",
         "region": "Oceania",
-        "subregion": "Polynesia"
+        "subregion": "Polynesia",
+        "center": [
+          -172.2161095677458,
+          -13.737058643927579
+        ]
       }
     },
     {
@@ -111040,7 +111884,11 @@
         "alpha2Code": "YE",
         "alpha3Code": "YEM",
         "region": "Asia",
-        "subregion": "Western Asia"
+        "subregion": "Western Asia",
+        "center": [
+          47.58597652250647,
+          15.907030365905932
+        ]
       }
     },
     {
@@ -111683,7 +112531,11 @@
         "alpha2Code": "ZA",
         "alpha3Code": "ZAF",
         "region": "Africa",
-        "subregion": "Southern Africa"
+        "subregion": "Southern Africa",
+        "center": [
+          25.100326703689724,
+          -28.976356726598688
+        ]
       }
     },
     {
@@ -112090,7 +112942,11 @@
         "alpha2Code": "ZM",
         "alpha3Code": "ZMB",
         "region": "Africa",
-        "subregion": "Eastern Africa"
+        "subregion": "Eastern Africa",
+        "center": [
+          27.76919075424042,
+          -13.456342754413392
+        ]
       }
     },
     {
@@ -112293,7 +113149,11 @@
         "alpha2Code": "ZW",
         "alpha3Code": "ZWE",
         "region": "Africa",
-        "subregion": "Eastern Africa"
+        "subregion": "Eastern Africa",
+        "center": [
+          29.840926459426175,
+          -19.008735332637084
+        ]
       }
     },
     {
@@ -112588,7 +113448,11 @@
         "alpha2Code": "undefined",
         "alpha3Code": "undefined",
         "region": "undefined",
-        "subregion": "undefined"
+        "subregion": "undefined",
+        "center": [
+          74.53478029943156,
+          35.52657318302534
+        ]
       }
     },
     {
@@ -112893,7 +113757,11 @@
         "alpha2Code": "undefined",
         "alpha3Code": "undefined",
         "region": "undefined",
-        "subregion": "undefined"
+        "subregion": "undefined",
+        "center": [
+          76.54193912125311,
+          33.783001909932544
+        ]
       }
     }
   ]
